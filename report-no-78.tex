@@ -1,0 +1,637 @@
+%%%%%% Run at command line, run
+%%%%%% xelatex grad-sample.tex 
+%%%%%% for a few times to generate the output pdf file
+\documentclass[12pt,oneside,openright,a4paper]{cpe-thai-project}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{thai}
+\setotherlanguage{english}
+\newfontfamily\thaifont[Script=Thai,Scale=1.23]{TH Sarabun New}
+\defaultfontfeatures{Mapping=tex-text,Scale=1.23,LetterSpace=0.0}
+\setmainfont[Scale=1.23,LetterSpace=0,WordSpace=1.0,FakeStretch=1.0,Mapping=tex-text]{TH Sarabun New}
+\XeTeXlinebreaklocale "th"
+\XeTeXlinebreakskip = 0pt plus 0pt
+\emergencystretch=10pt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Customize below to suit your needs 
+% The ones that are optional can be left blank. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% First line of title
+\def\disstitleone{Web Application for Learning English Vocabulary}
+% Second line of title
+\def\disstitletwo{}
+% Your first name and lastname
+\def\dissauthor{Krittayos Poomthong}   % 1st member
+%%% Put other group member names here ..
+\def\dissauthortwo{}   % 2nd member (optional)
+\def\dissauthorthree{}   % 3rd member (optional)
+
+% The degree that you're persuing..
+\def\dissdegree{Bachelor of Engineering} % Name of the degree
+\def\dissdegreeabrev{B.Eng} % Abbreviation of the degree
+\def\dissyear{2022}                   % Year of submission 
+\def\thaidissyear{2565}               % Year of submission (B.E.)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Your project and independent study committee..
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\dissadvisor{Taweechai Nuntawisuttiwong, Ph.D.}  % Advisor
+%%% Leave it empty if you have no Co-advisor
+\def\disscoadvisor{}  % Co-advisor
+\def\disscommitteetwo{Prapong Prechaprapranwong, Ph.D.}  % 3rd committee member (optional)
+\def\disscommitteethree{Asst.Prof. Dr.-Ing Priyakorn Pusawiro}   % 4th committee member (optional) 
+\def\disscommitteefour{Asst.Prof. Santitham Prom-on, Ph.D.}    % 5th committee member (optional) 
+
+\def\worktype{Project} %%  Project or Independent study
+\def\disscredit{3}   %% 3 credits or 6 credits
+
+\def\fieldofstudy{Computer Engineering}
+\def\department{Computer Engineering}
+\def\faculty{Engineering}
+
+\def\thaifieldofstudy{วิศวกรรมคอมพิวเตอร์}
+\def\thaidepartment{วิศวกรรมคอมพิวเตอร์}
+\def\thaifaculty{วิศวกรรมศาสตร์}
+
+\def\appendixnames{Appendix} %%% Appendices or Appendix
+
+\def\thaiworktype{ปริญญานิพนธ์} %  Project or research project % 
+\def\thaidisstitleone{เว็บแอปพลิเคชันสําหรับการเรียนรู้คำศัพท์ภาษาอังกฤษ}
+\def\thaidisstitletwo{}
+\def\thaidissauthor{นายกฤตยศ พุ่มทอง}
+\def\thaidissauthortwo{} %Optional
+\def\thaidissauthorthree{} %Optional
+
+\def\thaidissadvisor{ดร.ทวีชัย นันทวิสุทธิวงศ์}
+%% Leave this empty if you have no co-advisor
+\def\thaidisscoadvisor{} %Optional
+\def\thaidissdegree{วิศวกรรมศาสตรบัณฑิต}
+
+% Change the line spacing here...
+\linespread{1.15}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% End of personal customization.  Do not modify from this part 
+% to \begin{document} unless you know what you are doing...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%% Dissertation style %%%%%%%%%%%
+%\linespread{1.6} % Double-spaced  
+%%\oddsidemargin    0.5in
+%%\evensidemargin   0.5in
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\renewcommand{\subfigtopskip}{10pt}
+%\renewcommand{\subfigbottomskip}{-5pt} 
+%\renewcommand{\subfigcapskip}{-6pt} %vertical space between caption
+%                                    %and figure.
+%\renewcommand{\subfigcapmargin}{0pt}
+
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\textfraction}{0.1}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+
+\def\QED{\mbox{\rule[0pt]{1.5ex}{1.5ex}}}
+\def\proof{\noindent\hspace{2em}{\itshape Proof: }}
+\def\endproof{\hspace*{\fill}~\QED\par\endtrivlist\unskip}
+%\newenvironment{proof}{{\sc Proof:}}{~\hfill \blacksquare}
+%% The hyperref package redefines the \appendix. This one 
+%% is from the dissertation.cls
+%\def\appendix#1{\iffirstappendix \appendixcover \firstappendixfalse \fi \chapter{#1}}
+%\renewcommand{\arraystretch}{0.8}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage[justification=centering]{caption}
+
+\begin{document}
+
+\pdfstringdefDisableCommands{%
+	\let\MakeUppercase\relax
+}
+
+\begin{center}
+	\includegraphics[width=2.8cm]{logo02.jpg}
+\end{center}
+\vspace*{-1cm}
+
+\maketitlepage
+\makesignaturepage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% ToC, List of figures/tables %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The three commands below automatically generate the table 
+% of content, list of tables and list of figures
+\tableofcontents
+\listoftables
+\listoffigures
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% Chapter 1 %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{บทนำ}
+
+\section{ที่มาและความสำคัญ}
+
+\hspace{1cm}
+ภาษาอังกฤษเป็นภาษาที่มีความสำคัญอย่างมาก เนื่องจากภาษาอังกฤษถือเป็นภาษากลางที่ใช้ในการสื่อสารระหว่างหลายประเทศ
+มีบทบาทสำคัญทั้งในด้านของการศึกษา การสื่อสารและการทำงาน โดยเฉพาะในยุคดิจิทัลที่เนื้อหาเฉพาะทางต่าง ๆ มีการใช้คำศัพท์ภาษาอังกฤษมากมาย
+ทำให้การเรียนรู้คำศัพท์ใหม่ ๆ เป็นสิ่งสำคัญและมีประโยชน์อย่างมาก แต่ก็ไม่ใช่เรื่องง่าย เพราะวิธีเรียนที่เป็นแบบเน้นการท่องจำที่น่าเบื่อ
+จึงได้มีการใช้ Computer-Aided Instruction ซึ่งเป็นวิธีการเรียนรู้ที่ใช้ความสามารถของคอมพิวเตอร์มาช่วยนำเสนอสื่อหรือข้อมูลต่าง ๆ
+และสามารถโต้ตอบกับผู้เรียนเพื่อดึงดูดความสนใจได้
+
+\hspace{1cm}
+ในปัจจุบันมีสิ่งอำนวยความสะดวกในการสืบค้นข้อมูลมากมาย เช่นการใช้อินเตอร์เน็ตในการสืบค้นข้อมูล ส่งผลให้ในปัจจุบันคนไม่ชอบจำ
+และคิดว่าไม่จำเป็นต้องจำ โดยปัจจุบันการเรียนรู้คำศัพท์ใหม่ ๆ ก็ยังมีการเรียนแบบท่องจำอยู่ และด้วยลักษณะนิสัยที่ไม่ชอบการจำ
+จึงทำให้ผู้เรียนรู้สึกว่าการเรียนรู้คำศัพท์นั้นน่าเบื่อ และไม่มีความจำเป็น อีกทั้งเมื่อได้ชื่อว่าเป็นการเรียน ผู้เรียนบางคนก็จะมีความคิดด้านลบ
+ซึ่งอาจเกิดจากการเรียนเยอะเกินไป หรือไม่ชอบการเรียนก็ได้
+
+\hspace{1cm}
+Computer-Aided Instruction เป็นการใช้ความสามารถของคอมพิวเตอร์ในการแสดงสื่อและข้อมูลต่าง ๆ เพื่อประกอบการสอน
+ซึ่งสามารถผนวกเข้ากับ Games-Based Learning ซึ่งคือการเรียนรู้โดยใช้เกมมาผสมผสานได้
+ซึ่งจะทำให้เกิดการเรียนรู้การเรียนผ่านเกมหรือแบบฝึกหัดบนคอมพิวเตอร์ที่สนุกและมีความตื่นเต้น โดยการเรียนที่มีความบันเทิงเข้ามาเกี่ยวข้อง
+จะทำให้ผู้เรียนไม่รู้สึกว่าเป็นการเรียน หรืออาจคิดว่าเป็นการผ่อนคลายที่สามารถได้รับความรู้ด้วย ส่งผลให้การเรียบแบบนี้ช่วยดึงดูดความสนใจของผู้เรียน
+และเกิดการเรียนรู้ได้เร็วยิ่งขึ้น ดังนั้นการใช้ Games-Based Learning เพื่อเรียนรู้คำศัพท์ภาษาอังกฤษจึงเป็นทางเลือกที่ดีกว่าการเรียนรู้แบบเน้นการท่องจำ
+ที่อาจทำให้ผู้เรียนรู้สึกเบื่อหน่ายและไม่มีแรงจูงใจในการเรียนรู้เท่าที่ควร
+
+\hspace{1cm}
+ทางผู้พัฒนาจึงมีแนวคิดที่จะพัฒนาเว็บแอปพลิเคชันสำหรับการเรียนรู้ศัพท์ภาษาอังกฤษที่นำ Computer-Aided Instruction
+มาใช้และมีการเรียนรู้ในรูปแบบ Games-Based Learning ร่วม มาเพื่อแก้ไขปัญหาการเรียนรู้คำศัพท์แบบเดิม ๆ ที่เน้นท่องจำ
+และช่วยเพิ่มความสนุกสนานในการเรียนรู้และเข้าใจเนื้อหาได้ง่ายขึ้น เช่นการใช้บัตรคำที่มีรูปภาพประกอบเพื่อการจำศัพท์
+การทำแบบทดสอบหลายตัวเลือกเพื่อวัดความรู้ และมีการเก็บสถิติที่เป็นความสำเร็จเพื่อเป็นแรงจูงใจให้ผู้เรียนใช้งานแอปพลิเคชันต่อไป
+
+\section{ประเภทของโครงงาน }
+
+\hspace{1cm}เว็บแอปพลิเคชัน
+
+\section{วิธีการที่นำเสนอ}
+
+\subsection{วัตถุประสงค์}
+
+\begin{itemize}
+	\item เพื่อศึกษาการพัฒนาเว็บแอปพลิเคชันทั้ง Front-End และ Back-End
+	\item เพื่อพัฒนาเว็บแอปพลิเคชันมาให้ผู้ใช้สามารถเรียนรู้คำศัพท์ใหม่ ๆ และเข้าใจความหมายของคำศัพท์ได้มากยิ่งขึ้น
+	\item เพื่อให้ผู้ใช้สามารถได้เรียนรู้คำศัพท์อย่างสนุกและมีปฏิสัมพันธ์กับการเรียนผ่านรูปแบบต่าง ๆ เช่นการใช้บัตรจำ หรือเล่นเกมเรียงพยัญชนะเป็นคำศัพท์
+\end{itemize}
+
+\subsection{วิธีที่ใช้}
+
+\begin{itemize}
+	\item  ออกแบบส่วนต่อประสานกับผู้ใช้ที่ง่ายต่อการใช้งานเพื่อการเรียนรู้คำศัพท์
+	\item  ออกแบบฐานข้อมูลในการเก็บข้อมูลคำศัพท์ที่สามารถค้นหาคำศัพท์ได้และเก็บข้อมูลผู้ใช้งาน
+	\item  พัฒนามินิเกมในการเรียนรู้คำศัพท์ภาษาอังกฤษ
+	\item  พัฒนาเว็บแอปพลิเคชันสำหรับเรียนรู้คำศัพท์ภาษาอังกฤษ
+\end{itemize}
+
+\subsection{ขอบเขตของโครงงาน}
+
+\begin{itemize}
+	\item  เว็บแอปพลิเคชันสำหรับการเรียนรู้คำศัพท์ภาษาอังกฤษสำหรับผู้ใช้ที่ต้องการเรียนรู้คำศัพท์ภาษาอังกฤษ
+	\item  มีมินิเกมเพื่อการเรียนรู้คำศัพท์ภาษาอังกฤษ คือแฟลชการ์ด เล่นเกมเรียงพยัญชนะเป็นคำศัพท์ และแบบทดสอบหลายตัวเลือก
+	\item  สามารถเข้าถึงได้ผ่านทุกเว็บเบราเซอร์บนคอมพิวเตอร์
+	\item  เว็บแอปพลิเคชันนี้สามารถใช้งานเฉพาะรูปแบบออนไลน์เท่านั้น
+\end{itemize}
+
+\section{ตารางการดำเนินงาน}
+
+\begin{figure}[!h]\centering
+	\fbox{\includegraphics[width=\textwidth, keepaspectratio=true]{image/chap1/gantt.png}}
+	\caption{ตารางการดำเนินงานภาคการศึกษาที่ 1}\label{fig:plan}
+\end{figure}
+
+\section{ผลการดำเนินงาน}
+
+\begin{itemize}
+	\item รายงานรูปเล่มฉบับสมบูรณ์
+	\item การออกแบบ
+	      \begin{itemize}
+		      \item รายละเอียดของระบบ
+		      \item โครงสร้างสถาปัตยกรรมระบบ
+		      \item แบบจำลองหน้าจอส่วนต่อประสานกับผู้ใช้
+		      \item โครงสร้างฐานข้อมูล
+		      \item แผนภาพความสามารถของระบบ และแผนภาพการทำงานของระบบ
+	      \end{itemize}
+	\item ระบบ Front-end
+	\item ระบบ Back-end
+	\item ข้อมูลคำศัพท์ในฐานข้อมูลเริ่มต้นจำนวน 100 คำ ที่สามารถเพิ่มเติมได้ในภายหลัง
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% Chapter 2 %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{ทฤษฎีและงานวิจัยที่เกี่ยวข้อง}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% 2.1 %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{ทฤษฎีที่เกี่ยวข้อง}
+
+\hspace{1cm}
+หัวข้อนี้จะพูดเกี่ยวกับทฤษฎีที่เกี่ยวข้องกับโครงงาน โดยหัวข้อที่เกี่ยวข้องคือวิธีการเรียนรู้คำศัพท์
+คือการใช้บัตรคำในการจำศัพท์ และข้อสอบแบบเลือกตอบสำหรับการวัดผล และวิธีการเรียนรู้รูปแบบต่าง ๆ
+ที่นำมาปรับใช้ในโครงงาน คือ Computer-Aided Instruction ซึ่งเป็นการนำคอมพิวเตอร์มาปรับใช้กับการเรียนรู้
+และ Games-Based Learning ซึ่งเป็นการนำเกมมาใช้เป็นสื่อการสอน
+
+\subsection{การเรียนรู้คำศัพท์}
+
+\hspace{1cm}
+การเรียนรู้คำศัพท์ คือ กระบวนการเรียนรู้คำศัพท์ โดยใช้ความรู้ ความจำ และความเข้าใจในความหมาย ความหมายของคำ
+การสะกด การออกเสียง และของคำศัพท์ใหม่ ๆ อีกทั้งยังรวมถึงการนำคำศัพท์ที่เรียนรู้มาไปใช้ในบริบทต่าง ๆ ได้อยากถูกต้อง
+
+\subsection{บัตรคำ}
+
+\hspace{1cm}
+บัตรคำ (Flash card) เป็นสื่อการสอนในรูปแบบหนึ่ง โดยด้านหนึ่งจะประกอบไปด้วยคำศัพท์
+และอีกด้านจะเป็นความหมายหรือรูปภาพของคำศัพท์นั้น ๆ ซึ่งจะช่วยกระตุ้นทักษะในด้านการจดจำคำศัพท์
+เนื่องจากเป็นการทำอะไรซ้ำ ๆ และทำให้เรียนรู้คำศัพท์ใหม่ ๆ ได้เยอะขึ้น
+
+\subsection{ข้อสอบแบบเลือกตอบ}
+
+\hspace{1cm}
+ข้อสอบแบบเลือกตอบ (Multiple choice question) เป็นเครื่องมือการวัดผลชนิดหนึ่งที่มีลักษณะสำคัญคือ
+เป็นคำถามและมีตัวเลือกหลายตัวเลือกให้ผู้สอบเลือกตอบข้อที่ถูกเพียงข้อเดียว จะใช้วัดผลด้านความรู้เป็นหลัก
+และสามารถตรวจให้คะแนนได้เหมือนกันแม้จะเป็นผู้ตรวจคนละคนกัน อีกทั้งยังสามารถประเมิณความรู้ได้ทั้งในระดับของความจำ
+และการประยุกต์ใช้ความรู้ แต่ทั้งนี้ในการจะวัดความรู้ได้ดีหรือไม่ก็ขึ้นอยู่กับการสร้างคำถาม
+
+\subsection{Games-Based Learning \cite{GBL}}
+
+\hspace{1cm}
+Games-based learning คือการเรียนรู้โดยใช้เกมมาผสมผสาน ซึ่งจะทำให้เกิดการเรียนรู้ไปพร้อมกับได้รับความสนุกจากเกม
+โดยเกิดจากการที่นักวิจัยด้านการศึกษาได้นำเสนอแนวคิดที่จะนำความบันเทิงเข้ามาเป็นส่วนหนึ่งกับการเรียนรู้ และเมื่อการเรียนมีความสนุกสนาน
+ก็จะช่วยให้ผู้เรียนมีความสนใจในการเรียนรู้มากขึ้น และทำให้เกิดการเรียนรู้ได้เร็วยิ่งขึ้น ต่างจากการเรียนปกติที่อาจทำให้เกิดความเคร่งเครียด
+และนำไปสู่การไม่สนใจในการเรียนรู้ และละเลยการศึกษา
+
+\subsection{Computer-Aided Instruction \cite{CAI1,CAI2}}
+
+\hspace{1cm}
+Computer-Aided Instruction คือสื่อการเรียนรู้รูปแบบหนึ่ง ที่ใช้ความสามารถของคอมพิวเตอร์นำเสนอสื่อ และข้อมูลต่าง ๆ
+ไม่ว่าจะเป็นข้อความ ภาพ หรือเสียง โดยมีลักษณะการเรียนแบบที่ผู้เรียนมีการโต้ตอบโดยตรงกับคอมพิวเตอร์
+ซึ่งจะช่วยดึงดูดความสนใจของผู้เรียน และสร้างแรงจูงใจในการเรียนรู้มากขึ้น
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% 2.2 %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{ภาษาคอมพิวเตอร์และเทคโนโลยี}
+
+\hspace{1cm}
+หัวข้อนี้จะพูดถึงภาษาคอมพิวเตอร์และเทคโนโลยีที่ใช้ในโครงงาน ประกอบไปด้วย React
+ซึ่งใช้พัฒนา Frontend, Django ใช้พัฒนา Backend และ Figma ที่ใช้ออกแบบ User Interface
+
+\subsection{React}
+
+\hspace{1cm}
+React เป็น JavaScript Library ที่ใช้สำหรับสร้าง User interface โดยมีความสามารถในการแบ่ง UI ที่มีความซับซ้อนให้เป็นส่วนเล็ก ๆ ได้
+ซึ่งแต่ละส่วนสามารถแยกการทำงานออกจากกันได้อย่างอิสระ และสามารถนำแต่ละส่วนกลับมาใช้ได้อีก ซึ่งทำให้ง่ายต่อการจัดการและแก้ไขโค้ด
+
+\subsection{Django}
+
+\hspace{1cm}
+Django เป็น Web framework สำหรับการสร้างเว็บแอปพลิเคชันโดยใช้ภาษา Python ซึ่งมี Architectural pattern
+แบบ Model-View-Controller (MVC) และมีคุณสมบัติหลากหลาย เช่น มีระบบแอดมินที่สามารถใช้งานได้ทันที
+มี Object-Relational Mapping (ORM) ที่ช่วยให้เชื่อมต่อกับฐานข้อมูลได้อย่างสะดวก และระบบการยืนยันตัวตน (Authentication)
+ซึ่งทำให้ง่ายต่อการพัฒนาและปรับปรุงเว็บไซต์ที่ซับซ้อนได้อย่างรวดเร็ว
+
+\subsection{Figma \cite{Figma}}
+
+\hspace{1cm}
+Figma เป็นเครื่องมือออกแบบกราฟิกแบบออนไลน์ที่ช่วยให้นักออกแบบสามารถสร้างและออกแบบ UI/UX ของเว็บไซต์
+แอปพลิเคชั่น หรือผลิตภัณฑ์อื่น ๆ ได้อย่างง่ายดาย และมีความยืดหยุ่นสูง สามารถใช้งานได้ทั้งบนเว็บและอุปกรณ์เคลื่อนที่
+อีกทั้ง Figma ยังได้อันดับ 1 ในการจัดอันดับ UI design tool ประจำปี 2022 ของ uxtool.co อีกด้วย
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% 2.3 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagebreak
+\section{งานวิจัยที่เกี่ยวข้อง}
+
+\hspace{1cm}
+หัวข้อนี้จะพูดถึงงานวิจัยที่เกี่ยวข้อกับโครงงาน โดยจะเป็นแอปพลิเคชันที่เกี่ยวข้องกับการเรียนภาษาอังกฤษ
+ประกอบไปด้วย Duocards, Memrise และ Duolingo
+
+\subsection{DuoCards  \cite{DuoCards}}
+
+% \begin{figure}[!h]\centering
+%   \includegraphics[width=0.2\textwidth, keepaspectratio=true]{image/chap2/duocards.png}
+%   \caption{Icon ของ Duocards}\label{fig:duocardsIcon}
+% \end{figure}
+
+\hspace{1cm}
+DuoCards เป็นแอปพลิชันที่ออกแบบมาเพื่อช่วยให้ผู้ใช้สามารถเรียนรู้และจดจำคำศัพท์ ใหม่ ๆ ในหลายภาษาโดยใช้บัตรคำ
+โดยผู้ใช้สามารถใช้ชุดคำศัพท์ที่มีการเตรียมไว้ให้ หรือสร้างและออกแบบบัตรคำของตัวเองได้
+
+\begin{figure}[!h]\centering
+	\includegraphics[width=0.8\textwidth, keepaspectratio=true]{image/chap2/duocardsEX.png}
+	\caption{แอปพลิเคชัน Duocards}\label{fig:duocardsEx}
+\end{figure}
+
+\begin{itemize}
+	\item ข้อดี
+	      \begin{enumerate}
+		      \item มีคอร์สเรียนและแบบฝึกหัดในหลากหลายภาษา
+		      \item สามารถสร้างชุดคำศัพท์ของตัวเองได้
+		      \item สามารถเรียนรู้คำศัพท์จากวิดีโอที่แอปพลิเคชันเตรียมไว้ให้ได้
+		      \item มีการเรียนรู้ในรูปแบบเกมที่มีรางวัลและความสำเร็จเพื่อเป็นแรงจูงใจให้ผู้ใช้
+		      \item มีชุมชนสำหรับผู้ใช้เพื่อการแข่งขันและแลกเปลี่ยนข้อมูล
+	      \end{enumerate}
+	\item ข้อเสีย
+	      \begin{enumerate}
+		      \item มีวิธีการเรียนรู้คำศัพท์ในรูปแบบเดียวเท่านั้นคือบัตรคำ
+	      \end{enumerate}
+\end{itemize}
+
+\pagebreak
+\subsection{Memrise \cite{Memrise}}
+
+\hspace{1cm}
+Memrise เป็นแอปพลิเคชันสำหรับการเรียนรู้ภาษาที่มีรูปแบบในการเรียนรู้หลากหลาย ไม่ว่าจะเป็นแบบทดสอบหลายตัวเลือก
+หรือการพิมพ์คำศัพท์ให้ถูกต้อง อีกทั้งยังมีภาษาให้เลือกเรียนถึง 22 ภาษา โดยผู้ใช้สามารถสร้างบทเรียนของตัวเองเพื่อแบ่งปันกับผู้ใช้คนอื่นได้อีกด้วย
+
+\begin{figure}[!h]\centering
+	\includegraphics[width=0.8\textwidth, keepaspectratio=true]{image/chap2/memriseEX.png}
+	\caption{แอปพลิเคชัน Memrise}\label{fig:mimriseEx}
+\end{figure}
+
+\begin{itemize}
+	\item ข้อดี
+	      \begin{enumerate}
+		      \item มีคอร์สเรียนและแบบฝึกหัดในหลายภาษา และยังสามารถเลือกหัวข้อการเรียนที่สนใจได้ เช่นคำศัพท์ทางวิทยาศาสตร์ หรือคำศัพท์ทางธุรกิจ
+		      \item สามารถสร้างบทเรียนหรือชุดคำศัพท์ของตนเองเพื่อแบ่งปันกับผู้ใช้งานคนอื่นได้
+		      \item มีการเก็บค่าประสบการณ์ และความสำเร็จเพื่อเป็นแรงจูงใจให้ผู้ใช้
+		      \item มีชุมชนสำหรับผู้ใช้เพื่อการแข่งขันและแลกเปลี่ยนข้อมูล
+	      \end{enumerate}
+	\item ข้อเสีย
+	      \begin{enumerate}
+		      \item การเรียนรู้ส่วนใหญ่ที่มีจะอยู่ในรูปแบบการเลือกคำตอบให้ถูกต้อง
+		      \item ไม่สามารถเลือกรูปแบบการเรียนรู้ของบทเรียนที่มีอยู่ ยกเว้นจะทำการสร้างบทเรียนขึ้นมาเอง
+	      \end{enumerate}
+\end{itemize}
+
+\pagebreak
+\subsection{Duolingo \cite{Duolingo}}
+
+\hspace{1cm}
+Duolingo เป็นแอปพลิเคชันสำหรับการเรียนรู้ภาษาที่ครอบคลุมถึง 40 ภาษา อีกทั้งยังมีการเรียนรู้ที่ครอบคลุมทั้งการฟัง การพูด การอ่าน และการเขียน
+ตัวอย่างเช่นการจับคู่คำศัพท์, แบบทดสอบหลายตัวเลือก, การเรียงประโยคให้ถูกต้อง และการฝึกพูด เป็นต้น ซึ่งทำให้การเรียนรู้มีความสนุกและน่าสนใจมากขึ้น
+
+\begin{figure}[!h]\centering
+	\includegraphics[width=0.8\textwidth, keepaspectratio=true]{image/chap2/duolingoEX.png}
+	\caption{แอปพลิเคชัน Duolingo}\label{fig:duolingoEX}
+\end{figure}
+
+\begin{itemize}
+	\item ข้อดี
+	      \begin{enumerate}
+		      \item มีคอร์สเรียนและแบบฝึกหัดในหลายภาษา
+		      \item มีระบบการเรียนรู้ที่หลากหลาย ทั้งฟัง พูด อ่าน และเขียนสามารถสร้างบทเรียนหรือชุดคำศัพท์ของตนเองเพื่อแบ่งปันกับผู้ใช้งานคนอื่นได้
+		      \item มีระบบการเรียนรู้แบบเกมที่มีรางวัลและความสำเร็จที่สามารถให้แรงจูงใจกับผู้ใช้ได้
+		      \item มีชุมชนสำหรับผู้ใช้เพื่อการแข่งขันและแลกเปลี่ยนข้อมูล
+	      \end{enumerate}
+	\item ข้อเสีย
+	      \begin{enumerate}
+		      \item แอปอาจไม่เหมาะสำหรับผู้ใช้ที่ต้องการเน้นการเรียนรู้คำศัพท์เท่านั้น เนื่องจากแอปถูกออกแบบให้เป็นแพลตฟอร์มการเรียนรู้ภาษาแบบครอบคลุม
+		      \item ไม่สามารถเลือกหมวดหมู่ของการเรียนได้ตามต้องการ ต้องเรียนตามบทเรียนที่แอปพลิเคชันสร้างไว้
+		      \item ไม่สามารถสร้างบทเรียนของตนเองได้
+	      \end{enumerate}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% Chapter 3 %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{วิธีการทำงาน กระบวนการและการออกแบบ}
+
+\section{รายละเอียดของโครงงาน}
+\hspace{1cm}
+หัวข้อนี้จะพูดถึงรายละเอียดต่าง ๆ ที่โครงงานสามารถทำได้ โดยจะประกอบไปด้วยความต้องการระบบ
+ซึ่งเป็นความต้องการพื้นฐาน และคุณสมบัติต่าง ๆ ของระบบ รวมถึง Use Case Diagram
+และ Use Case Narrative ซึ่งจะแสดงให้เห็นถึงสิ่งที่ระบบสามารถทำได้
+
+\subsection{ความต้องการระบบ}
+\begin{itemize}
+	\item สามารถเข้าถึงได้ผ่านทุกเว็บเบราเซอร์บนคอมพิวเตอร์
+	\item ฐานข้อมูลคำศัพท์โดยเป็นคำศัพท์ภาษาอังกฤษที่สามารถค้นหาได้ พร้อมความหมายทั้งภาษาไทยและภาษาอังกฤษ ตัวอย่างการใช้งานในประโยค และวิธีการออกเสียง
+	\item สามารถสุ่มคำศัพท์ภาษาอังกฤษใหม่ ๆ ที่ยังไม่เคยเรียน พร้อมความหมายทั้งภาษาไทย ภาษาอังกฤษ ตัวอย่างการใช้งานในประโยค และวิธีการออกเสียง
+	\item สามารถสร้างบัตรคำ ซึ่งเป็นบัตรที่ประกอบไปด้วยคำศัพท์ภาษาอังกฤษ และความหมายภาษาไทยได้ โดยผู้ใช้สามารถเลือกคำศัพท์แล้วบันทึกไว้เอง หรือจะเลือกจากที่ระบบจัดไว้ให้
+	\item สามารถทดสอบความรู้ด้วยแบบทดสอบหลายตัวเลือกได้ โดยผู้ใช้จะต้องทำการจับคู่คำศัพท์กับความหมายให้ถูกต้อง
+	\item สามารถเล่นเกมเรียงตัวอักษรให้ถูกต้องได้ โดยระบบจะทำการสลับตำแหน่งตัวอักษร และให้คำใบ้มา ผู้ใช้จะต้องทำการพิมพ์คำศัพท์ที่ถูกต้อง
+	\item สามารถติดตามความคืบหน้าได้ โดยมีจำนวนคำศัพท์ที่เรียนไป จำนวนเกมที่เล่นจบ และเวลาที่ใช้ไปในแอปพลิเคชัน
+\end{itemize}
+
+\pagebreak
+\subsection{Use Case Diagram}
+
+\begin{figure}[!h]\centering
+	\includegraphics[width=0.8\textwidth, keepaspectratio=true]{image/chap3/UseCaseDiagram.jpg}
+	\caption{แผนภาพที่แสดงการทำงานของระบบ}\label{fig:UseCaseDiagram}
+\end{figure}
+
+\hspace{1cm}
+จากภาพจะเห็นว่าประกอบด้วย 2 บทบาทคือ Guest และ User โดยแต่ละบทบาทมีหน้าที่ดังนี้
+\begin{itemize}
+	\item Guest คือผู้ใช้ทั่วไปที่ยังไม่ได้ลงทะเบียนผู้ใช้ในระบบ หรือยังไม่ได้เข้าสู่ระบบ
+	      โดยสามารถลงทะเบียนผู้ใช้งาน เข้าสู่ระบบ สุ่มคำศัพท์ ค้นหาคำศัพท์ แสดงรายละเอียดคำศัพท์ที่ค้นหา
+	      เลือกหรือสุ่มคำศัพท์เพื่อใช้งานบัตรคำ ดูบัตรคำ ทำแบบทดสอบ และเล่นเกม
+	\item User คือผู้ใช้ที่เข้าสู่ระบบแล้ว สามารถดูสถิติการใช้งานเว็บแอปพลิชันได้
+\end{itemize}
+
+\subsection{Use Case Narrative}
+ประกอบด้วย 11 Use Cases ดังรูปภาพที่ \ref{fig:UseCaseDiagram} โดยมีรายละเอียดดังนี้
+
+\subsubsection{ลงทะเบียนผู้ใช้งาน}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการลงทะเบียนผู้ใช้งาน}\label{tbl:Register}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Register                                                                                                                                                                                           \\ \hline
+		Actor:                 & Guest                                                                                                                                                                                              \\ \hline
+		Goal:                  & ลงทะเบียนผู้ใช้งานสำเร็จ                                                                                                                                                                                 \\ \hline
+		Precondition           & Guest เข้าหน้า Register/Log In                                                                                                                                                                       \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. ระบบร้องขอการกรอกข้อมูล \\2. Guest กรอกข้อมูล \\3. ระบบถามการยืนยันข้อมูล \\4. Guest ยืนยันข้อมูล \\5. ระบบสร้าง Account ให้กับ Guest\end{tabular}                                   \\ \hline
+		Postcondition          & Guest มีบัญชีในระบบ                                                                                                                                                                                   \\ \hline
+		Extention              & \begin{tabular}[c]{@{}l@{}}Extension (a) \\ 4a. Guest กดยกเลิก \\ 5a. กลับไปทำข้อ 2. \\ 2. Extension (b) \\ 3b. Admin กรอกข้อมูลไม่ตรงตามรูปแบบ \\ 4b. ระบบแจ้งเตือนข้อผิดพลาด \\ 5b. กลับไปทำข้อ 1.\end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{เข้าสู่ระบบ}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการเข้าสู่ระบบ}\label{tbl:LogIn}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Log In                                                                                                                              \\ \hline
+		Actor:                 & Guest                                                                                                                               \\ \hline
+		Goal:                  & เข้าสู่ระบบสำเร็จ                                                                                                                        \\ \hline
+		Precondition           & Guest เข้าหน้า Register/Log In                                                                                                        \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. Actor กรอก Username และ Password \\2. Actor กดยืนยัน \\3. ระบบยืนยันให้เข้าสู่ระบบ \end{tabular}              \\ \hline
+		Extention              & \begin{tabular}[c]{@{}l@{}}Extension (a) \\ 3a. ข้อมูลที่Actor กรอกมาไม่ถูกต้อง \\ 4a. ระบบแจ้งเตือนข้อผิดพลาด \\ 5a. กลับไปทำข้อ 1.\end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\pagebreak
+\subsubsection{ดูสถิติการใช้งานเว็บแอปพลิเคชัน}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการดูสถิติการใช้งานเว็บแอปพลิเคชัน}\label{tbl:Statistic}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & View Statistic                                                                                 \\ \hline
+		Actor:                 & User                                                                                           \\ \hline
+		Goal:                  & ดูสถิติการใช้งานสำเร็จ                                                                               \\ \hline
+		Precondition           & User ทำการ Log-in เข้ามาแล้ว, User กดที่ไอคอนผู้ใช้งาน                                                 \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. User เลือกดูสถิติ \\2. ระบบแสดงสถิติการใช้งานเว็บแอปพลิเคชัน \end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{สุ่มคำศัพท์ใหม่ที่เพื่อการเรียนรู้}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการสุ่มคำศัพท์ใหม่ที่เพื่อการเรียนรู้}\label{tbl:RandomWord}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Random a Word to Learn                                                                    \\ \hline
+		Actor:                 & Guest, User                                                                               \\ \hline
+		Goal:                  & ระบบแสดงคำศัพท์ที่สุ่มมาสำเร็จ                                                                     \\ \hline
+		Precondition           & Actor อยู่หน้า Homepage                                                                      \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. Actor เลือก Random Word \\2. ระบบแสดงคำศัพท์ที่สุ่มมา \end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{ค้นหาคำศัพท์จากฐานข้อมูล}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการค้นหาคำศัพท์จากฐานข้อมูล}\label{tbl:SearchWord}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Search a Word from Database                                                                                                      \\ \hline
+		Actor:                 & Guest, User                                                                                                                      \\ \hline
+		Goal:                  & แสดงคำศัพท์ที่ค้นหาสำเร็จ                                                                                                                \\ \hline
+		Precondition           & Actor อยู่หน้า Homepage หรือ Actor อยู่หน้า Dictionary                                                                                  \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. Actor กรอกคำศัพท์ที่ต้องการค้นหา \\2. Actor กดค้นหา \\3. ระบบแสดงคำศัพท์ที่ค้นหา \end{tabular}                   \\ \hline
+		Extention              & \begin{tabular}[c]{@{}l@{}}Extension (a) \\ 3a. ระบบไม่มีคำศัพท์ที่ Actor ค้นหา \\ 4a. ระบบแสดงว่าไม่มีคำศัพท์ \\ 5a. กลับไปทำข้อ 1.\end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\pagebreak
+\subsubsection{แสดงผลรายละเอียดคำศัพท์}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการแสดงผลรายละเอียดคำศัพท์}\label{tbl:WordDetail}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & View Word Detail                                                                                  \\ \hline
+		Actor:                 & Guest, User                                                                                       \\ \hline
+		Goal:                  & แสดงผลรายละเอียดคำศัพท์สำเร็จ                                                                           \\ \hline
+		Precondition           & Actor ค้นหาคำศัพท์                                                                                    \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. Actor กดปุ่มดูรายละเอียดคำศัพท์ \\2. ระบบแสดงผลรายละเอียดคำศัพท์ \end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{เลือกคำศัพท์เพื่อใช้งานบัตรคำ}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการเลือกคำศัพท์เพื่อใช้งานบัตรคำ}\label{tbl:RandomFlashCard}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Select Words for Flashcards                                                                                                                                 \\ \hline
+		Actor:                 & Guest, User                                                                                                                                                 \\ \hline
+		Goal:                  & เลือกคำศัพท์สำเร็จ                                                                                                                                                \\ \hline
+		Precondition           & Actor เลือก Select Word ในหน้า Flashcard                                                                                                                      \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. ระบบแสดงคำศัพท์ \\2. Actor เลือกเก็บคำศัพท์นั้นเพื่อใช้งานบัตรคำ \\3. ระบบเก็บคำศัพท์ที่เลือก \\4. กลับไปทำข้อที่ 1. จนระบบเก็บคำศัพท์ครบ 10 คำ \end{tabular} \\ \hline
+		Postcondition          & ระบบมีคำศัพท์เพื่อใช้แสดงบัตรคำ                                                                                                                                      \\ \hline
+		Extention              & \begin{tabular}[c]{@{}l@{}}Extension (a) \\ 2a. Actor เลือกทิ้งคำศัพท์ \\ 3a. กลับไปทำข้อ 1. จนระบบเก็บคำศัพท์ครบ 10 คำ\end{tabular}                                      \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{สุ่มคำศัพท์เพื่อใช้งานบัตรคำ}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการสุ่มคำศัพท์เพื่อใช้งานบัตรคำ}\label{tbl:SelectFlashcard}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Random Words for Flashcards                                                                            \\ \hline
+		Actor:                 & Guest, User                                                                                            \\ \hline
+		Goal:                  & สุ่มคำศัพท์สำเร็จ                                                                                             \\ \hline
+		Precondition           & Actor เลือก Random Word ในหน้า Flashcard                                                                 \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. ระบบสุ่มคำศัพท์มาจำนวน 10 คำ  \\2. ระบบเก็บคำศัพท์ทั้ง 10 คำ เพื่อใช้งานบัตรคำ\end{tabular} \\ \hline
+		Postcondition          & ระบบมีคำศัพท์เพื่อใช้แสดงบัตรคำ                                                                                 \\ \hline
+	\end{tabular}
+\end{table}
+
+\pagebreak
+\subsubsection{ดูบัตรคำ}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการดูบัตรคำ}\label{tbl:Flashcard}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & View Flashcards                                                                                                                                                                                                                                                                                                                                                                                                        \\ \hline
+		Actor:                 & Guest, User                                                                                                                                                                                                                                                                                                                                                                                                            \\ \hline
+		Goal:                  & Actor กดปุ่มจำคำศัพท์ได้ครบ 10 คำ                                                                                                                                                                                                                                                                                                                                                                                              \\ \hline
+		Precondition           & ระบบมีคำศัพท์เพื่อใช้แสดงบัตรคำ                                                                                                                                                                                                                                                                                                                                                                                                 \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. ระบบแสดงบัตรคำด้านหน้า \\2. Actor กดที่บัตรคำ \\3. ระบบแสดงบัตรคำด้านหลัง \\4. Actor กดปุ่มจำคำศัพท์ได้ \\5. ระบบลบคำศัพท์ออก และแสดงคำศัพท์ถัดไป \\6. กลับไปทำข้อ 1. จน Actor กดปุ่มจำคำศัพท์ได้ครบ 10 คำ \end{tabular}                                                                                                                                                                                                      \\ \hline
+		Extention              & \begin{tabular}[c]{@{}l@{}}Extension (a) \\ 2a. Actor กดจำคำศัพท์ได้ \\ 3a. ระบบลบคำศัพท์ออก และแสดงคำศัพท์ถัดไป \\4a. กลับไปทำข้อ 1. จน Actor กดปุ่มจำคำศัพท์ได้ครบ 10 คำ \\Extension (b) \\2b. Actor กดจำคำศัพท์ไม่ได้ \\3b. ระบบเก็บคำศัพท์ไว้ และแสดงคำศัพท์ถัดไป \\4b. กลับไปทำข้อ 1. จน Actor กดปุ่มจำคำศัพท์ได้ครบ 10 คำ \\Extension (c) \\4c. Actor กดจำคำศัพท์ไม่ได้ \\5c. ระบบเก็บคำศัพท์ไว้ และแสดงคำศัพท์ถัดไป \\6c. กลับไปทำข้อ 1. จน Actor กดปุ่มจำคำศัพท์ได้ครบ 10 คำ\end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{ทำแบบทดสอบ}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับการทำแบบทดสอบ}\label{tbl:Quiz}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Take a quiz                                                                                                                                                                                                     \\ \hline
+		Actor:                 & Guest, User                                                                                                                                                                                                     \\ \hline
+		Goal:                  & Actor ทำแบบทดสอบครบ 10 คำถาม                                                                                                                                                                                      \\ \hline
+		Precondition           & Actor อยู่หน้า Quiz                                                                                                                                                                                                \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. Actor กด Start \\2. ระบบแสดงคำถามและตัวเลือก \\3. Actor กดปุ่มตัวเลือก \\4. ระบบแสดงผลคำตอบที่ถูกต้อง \\5. กลับไปทำข้อ 2. จน Actor ตอบคำถามครบ 10 ข้อ \\6. ระบบแสดงผลลัพธ์การทำแบบทดสอบ \end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\pagebreak
+\subsubsection{เล่นเกมเรียงพยัญชนะเป็นคำศัพท์}
+\begin{table}[h]\centering
+	\caption{Use Case Narrative สำหรับเล่นเกมเรียงพยัญชนะเป็นคำศัพท์}\label{tbl:Game}
+	\begin{tabular}{|p{.2\linewidth}|p{.6\linewidth}|}
+		\hline
+		Use Case Name:         & Play Word Scramble                                                                                                                                                                                                                             \\ \hline
+		Actor:                 & Guest, User                                                                                                                                                                                                                                    \\ \hline
+		Goal:                  & Actor เรียงพยัญชนะเป็นคำศัพท์ได้ถูกต้อง                                                                                                                                                                                                                 \\ \hline
+		Precondition           & Actor อยู่หน้า Word Scramble                                                                                                                                                                                                                      \\ \hline
+		Main Success Scenario: & \begin{tabular}[c]{@{}l@{}}1. Actor กด Start \\2. ระบบแสดงหน้าเกม \\3. Actor ใส่พยัญชนะลงไปในกล่องตัวอักษร \\4. Actor ใส่พยัญชนะถูกตำแหน่ง \\5. Actor กด Submit \\6. ระบบแสดงผลพยัญชนะที่อยู่ในตำแหน่งถูกต้อง \\7. ระบบแสดงผลว่าสามารถเรียงคำศัพท์ได้ถูกต้อง \end{tabular} \\ \hline                                                                                                                                                                                                                             \\ \hline
+		Extention              & \begin{tabular}[c]{@{}l@{}}Extension (a) \\ 4a. Actor ใส่พยัญชนะผิดตำแหน่ง \\ 5a. Actor กด Submit \\6a. ระบบแสดงผลพยัญชนะที่อยู่ในตำแหน่งถูก และผิด \\7a. กลับไปทำข้อ 3\end{tabular}                                                                            \\ \hline
+	\end{tabular}
+\end{table}
+
+\pagebreak
+\subsection{System Architecture}
+
+\begin{figure}[!h]\centering
+	\fbox{\includegraphics[width=\textwidth, keepaspectratio=true]{image/chap3/System Architecture.jpg}}
+	\caption{แผนภาพที่แสดงการทำงานของระบบ}\label{fig:UseCaseDiagram}
+\end{figure}
+
+\hspace{1cm}
+  ในเว็บแอปพลิเคชันจะแบ่งเป็นสองส่วนใหญ่ ๆ คือ Frontend และ Backend โดยผู้ใช้จะติดต่อกับเว็บแอปพลิเคชันผ่านทาง
+Frontend ที่พัฒนาโดยใช้ React.js และ Frontend จะติดต่อกับ Backend ที่พัฒนาโดยใช้ Django และ Django
+จะรับหน้าที่ในการติดต่อกับฐานข้อมูล
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% Bibliography %%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%% Comment this in your report to show only references you have
+%%%% cited. Otherwise, all the references below will be shown.
+%\nocite{*}
+%% Use the kmutt.bst for bibtex bibliography style 
+%% You must have cpe.bib and string.bib in your current directory.
+%% You may go to file .bbl to manually edit the bib items.
+
+% Sept, 2021 by Thanin
+% improve url breaks to prevent unnecessary big white spaces in some cases
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\makeatother
+% 
+
+\bibliographystyle{kmutt}
+\bibliography{string,cpe}
+
+\end{document}

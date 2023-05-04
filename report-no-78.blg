@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report-no-78.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: kmutt.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: string.bib
+Database file #2: cpe.bib
+Warning--empty year in CAI1
+Warning--empty year in CAI2
+You've used 7 entries,
+            2177 wiz_defined-function locations,
+            808 strings with 8660 characters,
+and the built_in function-call counts, 1525 in all, are:
+= -- 159
+> -- 49
+< -- 0
++ -- 21
+- -- 14
+* -- 81
+:= -- 273
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 49
+empty$ -- 141
+format.name$ -- 14
+if$ -- 321
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 0
+newline$ -- 38
+num.names$ -- 14
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 47
+stack$ -- 0
+substring$ -- 35
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 2
+while$ -- 14
+width$ -- 8
+write$ -- 84
+(There were 2 warnings)
