@@ -910,6 +910,120 @@ INPUT image\chap3\UseCaseDiagram.jpg
 INPUT .\image\chap3\System Architecture.jpg
 INPUT .\image\chap3\System Architecture.jpg
 INPUT image\chap3\System Architecture.jpg
+INPUT .\image\chap3\sequence\Register.jpg
+INPUT .\image\chap3\sequence\Register.jpg
+INPUT image\chap3\sequence\Register.jpg
+INPUT .\image\chap3\sequence\Login.jpg
+INPUT .\image\chap3\sequence\Login.jpg
+INPUT image\chap3\sequence\Login.jpg
+INPUT .\image\chap3\sequence\Statistic.jpg
+INPUT .\image\chap3\sequence\Statistic.jpg
+INPUT image\chap3\sequence\Statistic.jpg
+INPUT .\image\chap3\sequence\Random word.jpg
+INPUT .\image\chap3\sequence\Random word.jpg
+INPUT image\chap3\sequence\Random word.jpg
+INPUT .\image\chap3\sequence\Search.jpg
+INPUT .\image\chap3\sequence\Search.jpg
+INPUT image\chap3\sequence\Search.jpg
+INPUT .\image\chap3\sequence\View-Search.jpg
+INPUT .\image\chap3\sequence\View-Search.jpg
+INPUT image\chap3\sequence\View-Search.jpg
+INPUT .\image\chap3\sequence\Flash-Select.jpg
+INPUT .\image\chap3\sequence\Flash-Select.jpg
+INPUT image\chap3\sequence\Flash-Select.jpg
+INPUT .\image\chap3\sequence\Flash-Random.jpg
+INPUT .\image\chap3\sequence\Flash-Random.jpg
+INPUT image\chap3\sequence\Flash-Random.jpg
+INPUT .\image\chap3\sequence\Flashcard.jpg
+INPUT .\image\chap3\sequence\Flashcard.jpg
+INPUT image\chap3\sequence\Flashcard.jpg
+INPUT .\image\chap3\sequence\Quiz.jpg
+INPUT .\image\chap3\sequence\Quiz.jpg
+INPUT image\chap3\sequence\Quiz.jpg
+INPUT .\image\chap3\sequence\Game.jpg
+INPUT .\image\chap3\sequence\Game.jpg
+INPUT image\chap3\sequence\Game.jpg
+INPUT .\image\chap3\ui\Home page.png
+INPUT .\image\chap3\ui\Home page.png
+INPUT image\chap3\ui\Home page.png
+INPUT .\image\chap3\ui\login\Home page - Guest User Button.png
+INPUT .\image\chap3\ui\login\Home page - Guest User Button.png
+INPUT image\chap3\ui\login\Home page - Guest User Button.png
+INPUT .\image\chap3\ui\login\Home page - Register.png
+INPUT .\image\chap3\ui\login\Home page - Register.png
+INPUT image\chap3\ui\login\Home page - Register.png
+INPUT .\image\chap3\ui\login\Home page - Register error.png
+INPUT .\image\chap3\ui\login\Home page - Register error.png
+INPUT image\chap3\ui\login\Home page - Register error.png
+INPUT .\image\chap3\ui\login\Home page - Log in error.png
+INPUT .\image\chap3\ui\login\Home page - Log in error.png
+INPUT image\chap3\ui\login\Home page - Log in error.png
+INPUT .\image\chap3\ui\statistic\Home page - Logged In User Button.png
+INPUT .\image\chap3\ui\statistic\Home page - Logged In User Button.png
+INPUT image\chap3\ui\statistic\Home page - Logged In User Button.png
+INPUT .\image\chap3\ui\statistic\Statistic.png
+INPUT .\image\chap3\ui\statistic\Statistic.png
+INPUT image\chap3\ui\statistic\Statistic.png
+INPUT .\image\chap3\ui\Random Word.png
+INPUT .\image\chap3\ui\Random Word.png
+INPUT image\chap3\ui\Random Word.png
+INPUT .\image\chap3\ui\flashcard\Flashcard.png
+INPUT .\image\chap3\ui\flashcard\Flashcard.png
+INPUT image\chap3\ui\flashcard\Flashcard.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word.png
+INPUT image\chap3\ui\flashcard\Flashcard - Select Word.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word-1.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word-1.png
+INPUT image\chap3\ui\flashcard\Flashcard - Select Word-1.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Show Card.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Show Card.png
+INPUT image\chap3\ui\flashcard\Flashcard - Show Card.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Flip Card.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Flip Card.png
+INPUT image\chap3\ui\flashcard\Flashcard - Flip Card.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Complete.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Complete.png
+INPUT image\chap3\ui\flashcard\Flashcard - Complete.png
+INPUT .\image\chap3\ui\game\Word Scramble.png
+INPUT .\image\chap3\ui\game\Word Scramble.png
+INPUT image\chap3\ui\game\Word Scramble.png
+INPUT .\image\chap3\ui\game\Word Scramble - Start.png
+INPUT .\image\chap3\ui\game\Word Scramble - Start.png
+INPUT image\chap3\ui\game\Word Scramble - Start.png
+INPUT .\image\chap3\ui\game\Word Scramble - Wrong Answer.png
+INPUT .\image\chap3\ui\game\Word Scramble - Wrong Answer.png
+INPUT image\chap3\ui\game\Word Scramble - Wrong Answer.png
+INPUT .\image\chap3\ui\game\Word Scramble - Correct Answer.png
+INPUT .\image\chap3\ui\game\Word Scramble - Correct Answer.png
+INPUT image\chap3\ui\game\Word Scramble - Correct Answer.png
+INPUT .\image\chap3\ui\game\Word Scramble - Pop Up.png
+INPUT .\image\chap3\ui\game\Word Scramble - Pop Up.png
+INPUT image\chap3\ui\game\Word Scramble - Pop Up.png
+INPUT .\image\chap3\ui\quiz\Quiz.png
+INPUT .\image\chap3\ui\quiz\Quiz.png
+INPUT image\chap3\ui\quiz\Quiz.png
+INPUT .\image\chap3\ui\quiz\Quiz - Start.png
+INPUT .\image\chap3\ui\quiz\Quiz - Start.png
+INPUT image\chap3\ui\quiz\Quiz - Start.png
+INPUT .\image\chap3\ui\quiz\Quiz - Wrong Answer.png
+INPUT .\image\chap3\ui\quiz\Quiz - Wrong Answer.png
+INPUT image\chap3\ui\quiz\Quiz - Wrong Answer.png
+INPUT .\image\chap3\ui\quiz\Quiz - Correct Answer.png
+INPUT .\image\chap3\ui\quiz\Quiz - Correct Answer.png
+INPUT image\chap3\ui\quiz\Quiz - Correct Answer.png
+INPUT .\image\chap3\ui\quiz\Quiz - Result.png
+INPUT .\image\chap3\ui\quiz\Quiz - Result.png
+INPUT image\chap3\ui\quiz\Quiz - Result.png
+INPUT .\image\chap3\ui\dict\Dictionary.png
+INPUT .\image\chap3\ui\dict\Dictionary.png
+INPUT image\chap3\ui\dict\Dictionary.png
+INPUT .\image\chap3\ui\dict\Dictionary - Search Word.png
+INPUT .\image\chap3\ui\dict\Dictionary - Search Word.png
+INPUT image\chap3\ui\dict\Dictionary - Search Word.png
+INPUT .\image\chap3\ui\dict\Dictionary - View Word.png
+INPUT .\image\chap3\ui\dict\Dictionary - View Word.png
+INPUT image\chap3\ui\dict\Dictionary - View Word.png
 INPUT .\report-no-78.bbl
 INPUT report-no-78.bbl
 INPUT .\report-no-78.bbl

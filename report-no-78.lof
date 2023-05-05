@@ -23,4 +23,80 @@
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces แผนภาพที่แสดงการทำงานของระบบ\relax }}{14}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces แผนภาพที่แสดงสถาปัตยกรรมระบบ\relax }}{15}{figure.caption.17}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการลงทะเบียนผู้ใช้งาน\relax }}{16}{figure.caption.18}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการเข้าสู่ระบบ\relax }}{16}{figure.caption.19}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการดูสถิติการใช้งานเว็บแอปพลิเคชัน\relax }}{17}{figure.caption.20}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการสุ่มคำศัพท์ใหม่เพื่อการเรียนรู้\relax }}{17}{figure.caption.21}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการค้นหาคำศัพท์จากฐานข้อมูล\relax }}{18}{figure.caption.22}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการแสดงผลรายละเอียดคำศัพท์\relax }}{18}{figure.caption.23}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการเลือกคำศัพท์เพื่อใช้งานบัตรคำ\relax }}{19}{figure.caption.24}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการสุ่มคำศัพท์เพื่อใช้งานบัตรคำ\relax }}{19}{figure.caption.25}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการดูบัตรคำ\relax }}{20}{figure.caption.26}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการทำแบบทดสอบ\relax }}{21}{figure.caption.27}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces แผนผังการทำงานแบบลำดับปฏิสัมพันธ์ของการเล่นเกมเรียงพยัญชนะเป็นคำศัพท์\relax }}{22}{figure.caption.28}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces หน้าหลัก\relax }}{23}{figure.caption.29}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces ปุ่มผู้ใช้หากไม่ได้เข้าสู่ระบบ\relax }}{24}{figure.caption.30}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces หน้าลงทะเบียนและเข้าสู่ระบบ\relax }}{24}{figure.caption.31}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces ข้อผิดพลาดในการลงทะเบียน\relax }}{25}{figure.caption.32}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces ข้อผิดพลาดในการเข้าสู่ระบบ\relax }}{25}{figure.caption.33}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces ปุ่มผู้ใช้หากเข้าสู่ระบบแล้ว\relax }}{26}{figure.caption.34}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces หน้าสถิติการใช้งานเว็บแอปพลิเคชัน\relax }}{26}{figure.caption.35}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces การสุ่มคำศัพท์ใหม่เพื่อการเรียนรู้\relax }}{27}{figure.caption.36}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces หน้าหลักบัตรคำ\relax }}{27}{figure.caption.37}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces หน้าเลือกคำศัพท์เพื่อใช้งานบัตรคำ\relax }}{28}{figure.caption.38}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces เมื่อเลือกคำศัพท์เพื่อใช้งานบัตรคำครบแล้ว\relax }}{28}{figure.caption.39}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces หน้าแสดงผลด้านหน้าบัตรคำ\relax }}{29}{figure.caption.40}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces หน้าแสดงผลด้านหลังบัตรคำ\relax }}{29}{figure.caption.41}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces หน้าแสดงผลการใช้บัตรคำ\relax }}{30}{figure.caption.42}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces หน้าหลักการเล่นเกมเรียงพยัญชนะเป็นคำศัพท์\relax }}{30}{figure.caption.43}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces หน้าเล่นเกมเรียงพยัญชนะเป็นคำศัพท์\relax }}{31}{figure.caption.44}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces การแสดงผลหากใส่คำตอบผิด\relax }}{31}{figure.caption.45}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.31}{\ignorespaces การแสดงผลหากใส่คำตอบถูก\relax }}{32}{figure.caption.46}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.32}{\ignorespaces การแสดงผลลัพท์การเล่นเกม\relax }}{32}{figure.caption.47}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.33}{\ignorespaces หน้าหลักการทำแบบทดสอบ\relax }}{33}{figure.caption.48}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.34}{\ignorespaces หน้าเริ่มการทำแบบทดสอบ\relax }}{33}{figure.caption.49}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.35}{\ignorespaces การแสดงผลหากตอบผิด\relax }}{34}{figure.caption.50}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.36}{\ignorespaces การแสดงผลหากตอบถูก\relax }}{34}{figure.caption.51}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.37}{\ignorespaces การแสดงผลลัพท์การทำแบบทดสอบ\relax }}{35}{figure.caption.52}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.38}{\ignorespaces หน้าหลักพจนานุกรม\relax }}{35}{figure.caption.53}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.39}{\ignorespaces หน้าแสดงผลการค้นหา\relax }}{36}{figure.caption.54}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {3.40}{\ignorespaces การแสดงผลรายละเอียดคำศัพท์\relax }}{36}{figure.caption.55}%
