@@ -1,6 +1,6 @@
-PWD c:\Users\kp\Desktop\Report
+PWD c:\Users\kp\Desktop\Senoir-Report-No.78
 INPUT C:\Users\kp\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\Users\kp\Desktop\Report\report-no-78.tex
+INPUT c:\Users\kp\Desktop\Senoir-Report-No.78\report-no-78.tex
 OUTPUT report-no-78.log
 INPUT .\cpe-thai-project.cls
 INPUT .\cpe-thai-project.cls
