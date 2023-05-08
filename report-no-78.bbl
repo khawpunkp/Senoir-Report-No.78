@@ -1,4 +1,32 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{LearnEng}
+Samnao Sripramong,
+\newblock  2004, ``THE STUDY OF THE EFFECT OF USING VOCABULARY GAMES ON THE
+  RETENTION IN LEARNING VOCABULARY OF PRATHOMSUKSA FIVE STUDENTS,''
+\newblock M.S. thesis, Srinakharinwirot University,
+\newblock [Online; accessed 27-March-2023].
+
+\bibitem{Flashcard}
+Chulatutor,  2020,
+\newblock ``{Flashcard},'' Available at
+  \url{https://www.chulatutor.com/blog/flashcard/#.ZFYkv6BByUk},
+\newblock [Online; accessed 27-March-2023].
+
+\bibitem{SpacedRepetition}
+ดร.ณัฏฐ์ภัทร์ ชาญเชาวน์กุล,
+  2017,
+\newblock ``{ท่องจำตอนไหนดี (Spaced Repetition)},''
+  Available at \url{https://kru-mon.com/2017/12/spaced-repetition/},
+\newblock [Online; accessed 27-March-2023].
+
+\bibitem{MultiChoices}
+นายแพทย์อานุภาพ เลขะกุล,
+\newblock
+  ``{การสร้างข้อสอบแบบเลือกตอบ
+  (Multiple choice question)},'' Available at
+  \url{https://des.cda.or.th/home/DownloadFiles?fileName=MCQ_Arnupa.pdf},
+\newblock [Online; accessed 27-March-2023].
 
 \bibitem{GBL}
 นรรัชต์ ฝันเชียร,  2020,
@@ -20,6 +48,21 @@
   Assisted Instruction},'' Available at
   \url{https://ns.mahidol.ac.th/english/th/departments/MN/th/km/57/km57_6.html},
 \newblock [Online; accessed 29-March-2023].
+
+\bibitem{React}
+designil,  2017,
+\newblock ``{React คืออะไร?
+  ไขข้อสงสัยสำหรับมือใหม่ +
+  แนวทางการหัด React
+  ตั้งแต่เริ่มต้น},'' Available at
+  \url{https://www.designil.com/react-คืออะไร/},
+\newblock [Online; accessed 25-March-2023].
+
+\bibitem{Django}
+Sonny,  2021,
+\newblock ``{ทำไมต้องใช้ Django},'' Available at
+  \url{https://stackpython.co/tutorial/django},
+\newblock [Online; accessed 25-March-2023].
 
 \bibitem{Figma}
 Patchara Boonmathanaruk,  2022,

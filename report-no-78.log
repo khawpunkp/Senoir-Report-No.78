@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  5 MAY 2023 20:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  6 MAY 2023 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -595,10 +595,23 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 \WF@box=\box61
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+ (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-utex-helper.sty
+Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesome5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on input line 69.
+ (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\tufontawesomefree.fd)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on input line 70.
+ (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\tufontawesomebrands.fd))) (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count312
+\multirow@dima=\skip71
+\bigstrutjot=\dimen181
 ) (report-no-78.aux
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
 (Font)              scaled to size 12.29996pt on input line 16.
-\thai@year=\count312
+\thai@year=\count313
 
 
 LaTeX Warning: Label `fig:UseCaseDiagram' multiply defined.
@@ -609,36 +622,36 @@ LaTeX Warning: Label `fig:UI_SelectFlashcard1' multiply defined.
 )
 \openout1 = `report-no-78.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 117.
  (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 115.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 115.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 117.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 117.
  (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -674,7 +687,7 @@ LaTeX Font Info:    ... okay on input line 115.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 115.
+Package hyperref Info: Link coloring ON on input line 117.
 (report-no-78.out) (report-no-78.out)
 \@outlinefile=\write3
 \openout3 = `report-no-78.out'.
@@ -718,40 +731,40 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\thai@year=\count313
+\thai@year=\count314
 File: logo02.jpg Graphic file (type bmp)
 <logo02.jpg>
  [1
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 127.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
  (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 127.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
  (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 127.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 129.
  (C:\Users\kp\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 10000) in alignment at lines 127--127
+Underfull \hbox (badness 10000) in alignment at lines 129--129
 [] [] 
  []
 
 [2]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 14.75995pt on input line 134.
+(Font)              scaled to size 14.75995pt on input line 136.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 14.75995pt on input line 134.
+(Font)              scaled to size 14.75995pt on input line 136.
 
 
 Package hyperref Warning: bookmark level for unknown chapterx defaults to 0.
 
 (report-no-78.toc
-\thai@year=\count314
+\thai@year=\count315
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 (Font)              scaled to size 12.29996pt on input line 2.
  [3
@@ -772,46 +785,46 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 
  [6
 
-]
+] [7]
 บทที่ 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 142.
+(hyperref)                removed on input line 144.
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 17.71193pt on input line 142.
+(Font)              scaled to size 17.71193pt on input line 144.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 17.71193pt on input line 142.
+(Font)              scaled to size 17.71193pt on input line 144.
 
-Overfull \hbox (3.01923pt too wide) in paragraph at lines 146--152
+Overfull \hbox (3.01923pt too wide) in paragraph at lines 148--154
 []  \TU/THSarabunNew(0)/m/n/10 ภาษาอังกฤษเป็นภาษาที่มีความสำคัญอย่างมาก เนื่องจากภาษาอังกฤษถือเป็นภาษากลางที่ใช้ในการสื่อสารระหว่างหลายประเทศ
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 159--166
+Underfull \hbox (badness 3965) in paragraph at lines 161--168
 \TU/THSarabunNew(0)/m/n/10 ผ่านเกมหรือแบบฝึกหัดบนคอมพิวเตอร์ที่สนุกและมีความตื่นเต้น โดยการเรียนที่มีความบันเทิงเข้ามาเกี่ยวข้อง จะทำให้ผู้เรียนไม่รู้สึกว่า
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 159--166
+Underfull \hbox (badness 1210) in paragraph at lines 161--168
 \TU/THSarabunNew(0)/m/n/10 เป็นการเรียน หรืออาจคิดว่าเป็นการผ่อนคลายที่สามารถได้รับความรู้ด้วย ส่งผลให้การเรียบแบบนี้ช่วยดึงดูดความสนใจของผู้เรียน และ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--172
+Underfull \hbox (badness 10000) in paragraph at lines 169--174
 \TU/THSarabunNew(0)/m/n/10 เพิ่มความสนุกสนานในการเรียนรู้และเข้าใจเนื้อหาได้ง่ายขึ้น เช่นการใช้บัตรคำที่มีรูปภาพประกอบเพื่อการจำศัพท์ การทำแบบทดสอบ
  []
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 13.52995pt on input line 179.
+(Font)              scaled to size 13.52995pt on input line 181.
 [1
 
 ]
 File: image/chap1/gantt.png Graphic file (type bmp)
 <image/chap1/gantt.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 208--209
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 210--211
  [][] 
  []
 
@@ -820,211 +833,304 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 208--209
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 233.
+(hyperref)                removed on input line 235.
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 239--244
+Underfull \hbox (badness 4108) in paragraph at lines 241--246
 []  \TU/THSarabunNew(0)/m/n/10 หัวข้อนี้จะพูดเกี่ยวกับทฤษฎีที่เกี่ยวข้องกับโครงงาน โดยหัวข้อที่เกี่ยวข้องคือวิธีการเรียนรู้คำศัพท์ คือการใช้บัตรคำในการจำ
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 260--265
-\TU/THSarabunNew(0)/m/n/10 ตัวเลือกหลายตัวเลือกให้ผู้สอบเลือกตอบข้อที่ถูกเพียงข้อเดียว จะใช้วัดผลด้านความรู้เป็นหลัก และสามารถตรวจให้คะแนนได้เหมือนกัน
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 247.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 253.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 261.
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 263--268
+[]  \TU/THSarabunNew(0)/m/n/10 การทบทวนแบบเว้นระยะ คือการทบทวนความจำของเราซ้ำอีกครั้งเมื่อผ่านไปแล้วเป็นระยะเวลาหนึ่ง ตามหลักการแล้วควร
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 266.
+(hyperref)                removing `\@ifnextchar' on input line 269.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--273
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 277.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--284
 \TU/THSarabunNew(0)/m/n/10 โดยเกิดจากการที่นักวิจัยด้านการศึกษาได้นำเสนอแนวคิดที่จะนำความบันเทิงเข้ามาเป็นส่วนหนึ่งกับการเรียนรู้ และเมื่อการเรียนมีความ
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 274.
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 297--302
-\TU/THSarabunNew(0)/m/n/10 Model-View-Controller (MVC) และมีคุณสมบัติหลากหลาย เช่น มีระบบแอดมินที่สามารถใช้งานได้ทันที มี Object-Relational
- []
+(hyperref)                removing `\@ifnextchar' on input line 285.
 
 [3
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 303.
+(hyperref)                removing `\@ifnextchar' on input line 301.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 307.
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 309--314
+\TU/THSarabunNew(0)/m/n/10 Model-View-Controller (MVC) และมีคุณสมบัติหลากหลาย เช่น มีระบบแอดมินที่สามารถใช้งานได้ทันที มี Object-Relational
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 315.
 
 [4]
-Underfull \hbox (badness 1783) in paragraph at lines 314--317
+Underfull \hbox (badness 1783) in paragraph at lines 326--329
 []  \TU/THSarabunNew(0)/m/n/10 หัวข้อนี้จะพูดถึงงานวิจัยที่เกี่ยวข้อกับโครงงาน โดยจะเป็นแอปพลิเคชันที่เกี่ยวข้องกับการเรียนภาษาอังกฤษ ประกอบไปด้วย
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 318.
+Overfull \hbox (22.11473pt too wide) in paragraph at lines 332--341
+ [][] 
+ []
 
-File: image/chap2/duocardsEX.png Graphic file (type bmp)
-<image/chap2/duocardsEX.png>
 [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 350.
+(hyperref)                removing `\@ifnextchar' on input line 344.
 
-File: image/chap2/memriseEX.png Graphic file (type bmp)
-<image/chap2/memriseEX.png>
+File: image/chap2/duocardsEX.png Graphic file (type bmp)
+<image/chap2/duocardsEX.png>
 [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 377.
+(hyperref)                removing `\@ifnextchar' on input line 376.
+
+File: image/chap2/memriseEX.png Graphic file (type bmp)
+<image/chap2/memriseEX.png>
+[7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 403.
 
 File: image/chap2/duolingoEX.png Graphic file (type bmp)
 <image/chap2/duolingoEX.png>
 
-Overfull \hbox (0.71794pt too wide) in paragraph at lines 398--399
+Overfull \hbox (0.71794pt too wide) in paragraph at lines 424--425
 []\TU/THSarabunNew(0)/m/n/10 แอปอาจไม่เหมาะสำหรับผู้ใช้ที่ต้องการเน้นการเรียนรู้คำศัพท์เท่านั้น เนื่องจากแอปถูกออกแบบให้เป็นแพลตฟอร์มการเรียน
  []
 
-[7]
+[8]
 บทที่ 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 408.
+(hyperref)                removed on input line 434.
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 423--424
+Underfull \hbox (badness 1348) in paragraph at lines 449--450
 []\TU/THSarabunNew(0)/m/n/10 สามารถเล่นเกมเรียงตัวอักษรให้ถูกต้องได้ โดยระบบจะทำการสลับตำแหน่งตัวอักษร และให้คำใบ้มา ผู้ใช้จะต้องทำการพิมพ์คำ
  []
 
-[8
+[9
 
 ]
 File: image/chap3/UseCaseDiagram.jpg Graphic file (type bmp)
 <image/chap3/UseCaseDiagram.jpg>
- [9] [10] [11] [12] [13] [14]
+ [10] [11] [12] [13] [14] [15]
 File: image/chap3/System Architecture.jpg Graphic file (type bmp)
 <image/chap3/System Architecture.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 607--608
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 633--634
  [][] 
  []
 
-[15]
+[16]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 645.
+
 File: image/chap3/sequence/Register.jpg Graphic file (type bmp)
 <image/chap3/sequence/Register.jpg>
 File: image/chap3/sequence/Login.jpg Graphic file (type bmp)
 <image/chap3/sequence/Login.jpg>
- [16]
+[17]
 File: image/chap3/sequence/Statistic.jpg Graphic file (type bmp)
 <image/chap3/sequence/Statistic.jpg>
 File: image/chap3/sequence/Random word.jpg Graphic file (type bmp)
 <image/chap3/sequence/Random word.jpg>
- [17]
+ [18]
 File: image/chap3/sequence/Search.jpg Graphic file (type bmp)
 <image/chap3/sequence/Search.jpg>
 File: image/chap3/sequence/View-Search.jpg Graphic file (type bmp)
 <image/chap3/sequence/View-Search.jpg>
- [18]
+ [19]
 File: image/chap3/sequence/Flash-Select.jpg Graphic file (type bmp)
 <image/chap3/sequence/Flash-Select.jpg>
 File: image/chap3/sequence/Flash-Random.jpg Graphic file (type bmp)
 <image/chap3/sequence/Flash-Random.jpg>
- [19]
+ [20]
 File: image/chap3/sequence/Flashcard.jpg Graphic file (type bmp)
 <image/chap3/sequence/Flashcard.jpg>
- [20]
+ [21]
 File: image/chap3/sequence/Quiz.jpg Graphic file (type bmp)
 <image/chap3/sequence/Quiz.jpg>
- [21]
+ [22]
 File: image/chap3/sequence/Game.jpg Graphic file (type bmp)
 <image/chap3/sequence/Game.jpg>
 
-Underfull \hbox (badness 1715) in paragraph at lines 720--727
+Underfull \hbox (badness 1715) in paragraph at lines 746--753
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้กดปุ่มเริ่มเล่นเกมระบบจะทำการสุ่มคำศัพท์จากฐานข้อมูลผ่าน Application เพื่อทำการแสดงผลคำศัพท์ที่ใช้เล่นเกม
  []
 
-[22]
+[23]
 File: image/chap3/ui/Home page.png Graphic file (type bmp)
 <image/chap3/ui/Home page.png>
- [23]
+ [24]
 File: image/chap3/ui/login/Home page - Guest User Button.png Graphic file (type bmp)
 <image/chap3/ui/login/Home page - Guest User Button.png>
 File: image/chap3/ui/login/Home page - Register.png Graphic file (type bmp)
 <image/chap3/ui/login/Home page - Register.png>
- [24]
+ [25]
 File: image/chap3/ui/login/Home page - Register error.png Graphic file (type bmp)
 <image/chap3/ui/login/Home page - Register error.png>
 File: image/chap3/ui/login/Home page - Log in error.png Graphic file (type bmp)
 <image/chap3/ui/login/Home page - Log in error.png>
- [25]
+ [26]
 File: image/chap3/ui/statistic/Home page - Logged In User Button.png Graphic file (type bmp)
 <image/chap3/ui/statistic/Home page - Logged In User Button.png>
 File: image/chap3/ui/statistic/Statistic.png Graphic file (type bmp)
 <image/chap3/ui/statistic/Statistic.png>
- [26]
+ [27]
 File: image/chap3/ui/Random Word.png Graphic file (type bmp)
 <image/chap3/ui/Random Word.png>
 
-Underfull \hbox (badness 1024) in paragraph at lines 791--794
+Underfull \hbox (badness 1024) in paragraph at lines 821--824
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้กดปุ่มสุ่มคำศัพท์ในหน้าหลัก ระบบจะแสดงการ์ดคำศัพท์ที่สุ่มมา โดยในการ์ดจะประกอบไปด้วย คำศัพท์, Part of
  []
 
+[28]
 File: image/chap3/ui/flashcard/Flashcard.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard.png>
-[27]
 File: image/chap3/ui/flashcard/Flashcard - Select Word.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard - Select Word.png>
+ [29]
 File: image/chap3/ui/flashcard/Flashcard - Select Word-1.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard - Select Word-1.png>
- [28]
 File: image/chap3/ui/flashcard/Flashcard - Show Card.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard - Show Card.png>
+ [30]
 File: image/chap3/ui/flashcard/Flashcard - Flip Card.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard - Flip Card.png>
- [29]
 File: image/chap3/ui/flashcard/Flashcard - Complete.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard - Complete.png>
+ [31]
 File: image/chap3/ui/game/Word Scramble.png Graphic file (type bmp)
 <image/chap3/ui/game/Word Scramble.png>
- [30]
 File: image/chap3/ui/game/Word Scramble - Start.png Graphic file (type bmp)
 <image/chap3/ui/game/Word Scramble - Start.png>
+ [32]
 File: image/chap3/ui/game/Word Scramble - Wrong Answer.png Graphic file (type bmp)
 <image/chap3/ui/game/Word Scramble - Wrong Answer.png>
- [31]
 File: image/chap3/ui/game/Word Scramble - Correct Answer.png Graphic file (type bmp)
 <image/chap3/ui/game/Word Scramble - Correct Answer.png>
+ [33]
 File: image/chap3/ui/game/Word Scramble - Pop Up.png Graphic file (type bmp)
 <image/chap3/ui/game/Word Scramble - Pop Up.png>
- [32]
 File: image/chap3/ui/quiz/Quiz.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz.png>
+ [34]
 File: image/chap3/ui/quiz/Quiz - Start.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Start.png>
- [33]
 File: image/chap3/ui/quiz/Quiz - Wrong Answer.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Wrong Answer.png>
+ [35]
 File: image/chap3/ui/quiz/Quiz - Correct Answer.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Correct Answer.png>
- [34]
 File: image/chap3/ui/quiz/Quiz - Result.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Result.png>
+ [36]
 File: image/chap3/ui/dict/Dictionary.png Graphic file (type bmp)
 <image/chap3/ui/dict/Dictionary.png>
- [35]
 File: image/chap3/ui/dict/Dictionary - Search Word.png Graphic file (type bmp)
 <image/chap3/ui/dict/Dictionary - Search Word.png>
 
-Overfull \hbox (2.31801pt too wide) in paragraph at lines 934--936
+Overfull \hbox (2.31801pt too wide) in paragraph at lines 968--970
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้ค้นหาคำศัพท์จากช่องค้นหา หรือในหน้าพจนานุกรม ระบบจะแสดงผลการ์ดคำศัพท์ที่ทำการค้นหาออกมา โดยจะสามารถ
  []
 
+[37]
 File: image/chap3/ui/dict/Dictionary - View Word.png Graphic file (type bmp)
 <image/chap3/ui/dict/Dictionary - View Word.png>
-(report-no-78.bbl [36])
+ [38]
+File: image/chap3/ER diagrams.jpg Graphic file (type bmp)
+<image/chap3/ER diagrams.jpg>
+ [39]
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1000--1000
+[]|\TU/THSarabunNew(0)/m/n/10 PK| 
+ []
+
+
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1006--1006
+[]|\TU/THSarabunNew(0)/m/n/10 Yes| 
+ []
+
+
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1007--1007
+[]|\TU/THSarabunNew(0)/m/n/10 Yes| 
+ []
+
+
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 997--1009
+ [][] 
+ []
+
+
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1019--1019
+[]|\TU/THSarabunNew(0)/m/n/10 PK| 
+ []
+
+
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1021--1021
+[]|\TU/THSarabunNew(0)/m/n/10 Yes| 
+ []
+
+
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1016--1023
+ [][] 
+ []
+
+[40]
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1034--1034
+[]|\TU/THSarabunNew(0)/m/n/10 PK| 
+ []
+
+
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1031--1042
+ [][] 
+ []
+
+
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1052--1052
+[]|\TU/THSarabunNew(0)/m/n/10 PK| 
+ []
+
+
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1049--1056
+ [][] 
+ []
+
+(report-no-78.bbl [41])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1114,24 +1220,24 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/target}  =>  {english}
 >  {newzealand/variant}  =>  {newzealand}
 >  {newzealand/options}  =>  {variant=newzealand}.
- [37
+ [42
 
 ] (report-no-78.aux
-\thai@year=\count315
+\thai@year=\count316
 )
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `report-no-78.out' has not changed.
-(rerunfilecheck)             Checksum: 99A580B47003FCC7224EEB47BB7574AD;11783.
+(rerunfilecheck)             Checksum: E3ABA2B2F1893467AC616647B3206B3A;15044.
  ) 
 Here is how much of TeX's memory you used:
- 19486 strings out of 411448
- 374939 string characters out of 5818071
- 1862698 words of memory out of 5000000
- 39447 multiletter control sequences out of 15000+600000
- 514928 words of font info for 77 fonts, out of 8000000 for 9000
+ 21177 strings out of 411448
+ 397015 string characters out of 5818071
+ 1864698 words of memory out of 5000000
+ 41117 multiletter control sequences out of 15000+600000
+ 514944 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,16n,117p,611b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,17n,117p,617b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report-no-78.xdv (43 pages, 453836 bytes).
+Output written on report-no-78.xdv (49 pages, 532536 bytes).
