@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  6 MAY 2023 18:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  9 MAY 2023 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -612,13 +612,6 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
 (Font)              scaled to size 12.29996pt on input line 16.
 \thai@year=\count313
-
-
-LaTeX Warning: Label `fig:UseCaseDiagram' multiply defined.
-
-
-LaTeX Warning: Label `fig:UI_SelectFlashcard1' multiply defined.
-
 )
 \openout1 = `report-no-78.aux'.
 
@@ -841,60 +834,13 @@ Underfull \hbox (badness 4108) in paragraph at lines 241--246
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 247.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 253.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 261.
-
-
-Underfull \hbox (badness 4518) in paragraph at lines 263--268
-[]  \TU/THSarabunNew(0)/m/n/10 การทบทวนแบบเว้นระยะ คือการทบทวนความจำของเราซ้ำอีกครั้งเมื่อผ่านไปแล้วเป็นระยะเวลาหนึ่ง ตามหลักการแล้วควร
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 269.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 277.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 279--284
 \TU/THSarabunNew(0)/m/n/10 โดยเกิดจากการที่นักวิจัยด้านการศึกษาได้นำเสนอแนวคิดที่จะนำความบันเทิงเข้ามาเป็นส่วนหนึ่งกับการเรียนรู้ และเมื่อการเรียนมีความ
  []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 285.
-
 [3
 
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 301.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 307.
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 309--314
-\TU/THSarabunNew(0)/m/n/10 Model-View-Controller (MVC) และมีคุณสมบัติหลากหลาย เช่น มีระบบแอดมินที่สามารถใช้งานได้ทันที มี Object-Relational
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 315.
-
-[4]
+] [4]
 Underfull \hbox (badness 1783) in paragraph at lines 326--329
 []  \TU/THSarabunNew(0)/m/n/10 หัวข้อนี้จะพูดถึงงานวิจัยที่เกี่ยวข้อกับโครงงาน โดยจะเป็นแอปพลิเคชันที่เกี่ยวข้องกับการเรียนภาษาอังกฤษ ประกอบไปด้วย
  []
@@ -905,28 +851,16 @@ Overfull \hbox (22.11473pt too wide) in paragraph at lines 332--341
  []
 
 [5]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 344.
-
 File: image/chap2/duocardsEX.png Graphic file (type bmp)
 <image/chap2/duocardsEX.png>
-[6]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 376.
-
+ [6]
 File: image/chap2/memriseEX.png Graphic file (type bmp)
 <image/chap2/memriseEX.png>
-[7]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 403.
-
+ [7]
 File: image/chap2/duolingoEX.png Graphic file (type bmp)
 <image/chap2/duolingoEX.png>
 
-Overfull \hbox (0.71794pt too wide) in paragraph at lines 424--425
+Overfull \hbox (0.71794pt too wide) in paragraph at lines 419--420
 []\TU/THSarabunNew(0)/m/n/10 แอปอาจไม่เหมาะสำหรับผู้ใช้ที่ต้องการเน้นการเรียนรู้คำศัพท์เท่านั้น เนื่องจากแอปถูกออกแบบให้เป็นแพลตฟอร์มการเรียน
  []
 
@@ -935,10 +869,10 @@ Overfull \hbox (0.71794pt too wide) in paragraph at lines 424--425
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 434.
+(hyperref)                removed on input line 429.
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 449--450
+Underfull \hbox (badness 1348) in paragraph at lines 444--445
 []\TU/THSarabunNew(0)/m/n/10 สามารถเล่นเกมเรียงตัวอักษรให้ถูกต้องได้ โดยระบบจะทำการสลับตำแหน่งตัวอักษร และให้คำใบ้มา ผู้ใช้จะต้องทำการพิมพ์คำ
  []
 
@@ -951,14 +885,14 @@ File: image/chap3/UseCaseDiagram.jpg Graphic file (type bmp)
 File: image/chap3/System Architecture.jpg Graphic file (type bmp)
 <image/chap3/System Architecture.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 633--634
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 650--651
  [][] 
  []
 
 [16]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 645.
+(hyperref)                than one, level fixed on input line 662.
 
 File: image/chap3/sequence/Register.jpg Graphic file (type bmp)
 <image/chap3/sequence/Register.jpg>
@@ -989,7 +923,7 @@ File: image/chap3/sequence/Quiz.jpg Graphic file (type bmp)
 File: image/chap3/sequence/Game.jpg Graphic file (type bmp)
 <image/chap3/sequence/Game.jpg>
 
-Underfull \hbox (badness 1715) in paragraph at lines 746--753
+Underfull \hbox (badness 1715) in paragraph at lines 765--773
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้กดปุ่มเริ่มเล่นเกมระบบจะทำการสุ่มคำศัพท์จากฐานข้อมูลผ่าน Application เพื่อทำการแสดงผลคำศัพท์ที่ใช้เล่นเกม
  []
 
@@ -1014,12 +948,7 @@ File: image/chap3/ui/statistic/Statistic.png Graphic file (type bmp)
  [27]
 File: image/chap3/ui/Random Word.png Graphic file (type bmp)
 <image/chap3/ui/Random Word.png>
-
-Underfull \hbox (badness 1024) in paragraph at lines 821--824
-[]  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้กดปุ่มสุ่มคำศัพท์ในหน้าหลัก ระบบจะแสดงการ์ดคำศัพท์ที่สุ่มมา โดยในการ์ดจะประกอบไปด้วย คำศัพท์, Part of
- []
-
-[28]
+ [28]
 File: image/chap3/ui/flashcard/Flashcard.png Graphic file (type bmp)
 <image/chap3/ui/flashcard/Flashcard.png>
 File: image/chap3/ui/flashcard/Flashcard - Select Word.png Graphic file (type bmp)
@@ -1047,86 +976,81 @@ File: image/chap3/ui/game/Word Scramble - Correct Answer.png Graphic file (type 
  [33]
 File: image/chap3/ui/game/Word Scramble - Pop Up.png Graphic file (type bmp)
 <image/chap3/ui/game/Word Scramble - Pop Up.png>
+ [34]
 File: image/chap3/ui/quiz/Quiz.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz.png>
- [34]
 File: image/chap3/ui/quiz/Quiz - Start.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Start.png>
+ [35]
 File: image/chap3/ui/quiz/Quiz - Wrong Answer.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Wrong Answer.png>
- [35]
 File: image/chap3/ui/quiz/Quiz - Correct Answer.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Correct Answer.png>
+ [36]
 File: image/chap3/ui/quiz/Quiz - Result.png Graphic file (type bmp)
 <image/chap3/ui/quiz/Quiz - Result.png>
- [36]
 File: image/chap3/ui/dict/Dictionary.png Graphic file (type bmp)
 <image/chap3/ui/dict/Dictionary.png>
+ [37]
 File: image/chap3/ui/dict/Dictionary - Search Word.png Graphic file (type bmp)
 <image/chap3/ui/dict/Dictionary - Search Word.png>
-
-Overfull \hbox (2.31801pt too wide) in paragraph at lines 968--970
-[]  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้ค้นหาคำศัพท์จากช่องค้นหา หรือในหน้าพจนานุกรม ระบบจะแสดงผลการ์ดคำศัพท์ที่ทำการค้นหาออกมา โดยจะสามารถ
- []
-
-[37]
 File: image/chap3/ui/dict/Dictionary - View Word.png Graphic file (type bmp)
 <image/chap3/ui/dict/Dictionary - View Word.png>
  [38]
 File: image/chap3/ER diagrams.jpg Graphic file (type bmp)
 <image/chap3/ER diagrams.jpg>
  [39]
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1000--1000
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1037--1037
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1006--1006
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1043--1043
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1007--1007
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1044--1044
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 997--1009
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1034--1046
  [][] 
  []
 
 
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1019--1019
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1056--1056
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1021--1021
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1058--1058
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1016--1023
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1053--1060
  [][] 
  []
 
 [40]
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1034--1034
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1071--1071
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1031--1042
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1068--1079
  [][] 
  []
 
 
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1052--1052
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1089--1089
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1049--1056
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1086--1093
  [][] 
  []
 
@@ -1225,19 +1149,16 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 ] (report-no-78.aux
 \thai@year=\count316
 )
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `report-no-78.out' has not changed.
-(rerunfilecheck)             Checksum: E3ABA2B2F1893467AC616647B3206B3A;15044.
+(rerunfilecheck)             Checksum: 5031A1A5C466DC3A0D27BF5D2FAC6C2E;14468.
  ) 
 Here is how much of TeX's memory you used:
- 21177 strings out of 411448
- 397015 string characters out of 5818071
+ 21178 strings out of 411448
+ 397048 string characters out of 5818071
  1864698 words of memory out of 5000000
- 41117 multiletter control sequences out of 15000+600000
+ 41118 multiletter control sequences out of 15000+600000
  514944 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,17n,117p,617b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report-no-78.xdv (49 pages, 532536 bytes).
+Output written on report-no-78.xdv (49 pages, 573760 bytes).
