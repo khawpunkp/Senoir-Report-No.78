@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex report-no-78"] 1683645054 "report-no-78.aux" "report-no-78.bbl" "report-no-78" 1683645062 0
+["bibtex report-no-78"] 1684401378 "report-no-78.aux" "report-no-78.bbl" "report-no-78" 1684401476 0
   "./cpe.bib" 1683373651 4620 c26770ed29e139d7753dc7dbc7b996a5 ""
   "./kmutt.bst" 1633119298 21779 41192b750acb27833aedc07e2a32f6ab ""
   "./string.bib" 1583423212 6002 8aab5c394189cbd162b7e832ee240f3b ""
-  "report-no-78.aux" 1683645057 43405 b4d1310bcba1aa34deac80613f94e077 "xelatex"
+  "report-no-78.aux" 1684401469 50933 522f1955e8a581591ddcca1e68648b94 "xelatex"
   (generated)
   "report-no-78.bbl"
   "report-no-78.blg"
   (rewritten before read)
-["xdvipdfmx"] 1683645058 "report-no-78.xdv" "report-no-78.pdf" "report-no-78" 1683645062 0
-  "report-no-78.xdv" 1683645057 573760 30c38f4c9299dfb8efded1e198d583e7 "xelatex"
+["xdvipdfmx"] 1684401470 "report-no-78.xdv" "report-no-78.pdf" "report-no-78" 1684401476 0
+  "report-no-78.xdv" 1684401469 636664 399cbf6d668ff2141c81c91614cff862 "xelatex"
   (generated)
   "report-no-78.pdf"
   (rewritten before read)
-["xelatex"] 1683645055 "c:/Users/kp/Desktop/Senoir-Report-No.78/report-no-78.tex" "report-no-78.xdv" "report-no-78" 1683645062 0
+["xelatex"] 1684401466 "c:/Users/kp/Desktop/Senoir-Report-No.78/report-no-78.tex" "report-no-78.xdv" "report-no-78" 1684401476 0
   "C:/Users/kp/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1683104538 36449048 a5e57ffbd7c1c9b1581b856b00467c3f ""
   "C:/Users/kp/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136747054 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/kp/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -119,7 +119,7 @@
   "C:/Users/kp/AppData/Local/Programs/MiKTeX/tex/latex/xltxtra/xltxtra.sty" 1546510394 5871 8a29af4ad9d707b5280738995d050842 ""
   "C:/Users/kp/AppData/Local/Programs/MiKTeX/tex/xelatex/mathspec/mathspec.sty" 1482401880 44589 699067f7edf2c8dbbd4a8fe1322b581d ""
   "C:/Users/kp/AppData/Local/Programs/MiKTeX/tex/xelatex/xunicode/xunicode.sty" 1315551046 205722 8027ed7ab2230086d647802c25f3ee42 ""
-  "c:/Users/kp/Desktop/Senoir-Report-No.78/report-no-78.tex" 1683645050 125046 38ff8e3f72d19e7705b5ac6823571114 ""
+  "c:/Users/kp/Desktop/Senoir-Report-No.78/report-no-78.tex" 1684401465 138103 1052fbaad4a66b2c5723d59445ea9ddc ""
   "cpe-thai-project.cls" 1683106524 30925 c57362d0e6b7f60b27adf4f8f61fa9ef ""
   "image/chap1/gantt.png" 1681976100 198816 7faf01b3662b0a30b94b0833cc458e3c ""
   "image/chap2/duocardsEX.png" 1683197904 110364 d3ad282b9d5911d9447e8060af84eb12 ""
@@ -166,14 +166,29 @@
   "image/chap3/ui/quiz/Quiz.png" 1682168358 22849 76a3f936def849f91fb41e97c8765c2d ""
   "image/chap3/ui/statistic/Home page - Logged In User Button.png" 1682151785 63966 ef17b939025689b32cbb59f9528e997e ""
   "image/chap3/ui/statistic/Statistic.png" 1682082981 45133 6b6312953129439d92b590cb41c0d81e ""
+  "image/chap4/DB/db.png" 1684397228 45975 de467f27298ef0486266ec62b04fa432 ""
+  "image/chap4/DB/user.png" 1684397244 65890 1e89e35710c7d78e6538e415cc80943b ""
+  "image/chap4/DB/word learned.png" 1684397399 62068 a47ef8e1437d09ec391ee7faaebd13a4 ""
+  "image/chap4/DB/word root.png" 1684397381 58906 7898fd93bec577fe24830c2622911aa6 ""
+  "image/chap4/DB/word.png" 1684397355 67711 4452f01335742a68e264b72197408d94 ""
+  "image/chap4/UI/home.png" 1684396397 97028 6adbe1ac3aabed90dd66cb1c38df3198 ""
+  "image/chap4/UI/login failed.png" 1684396793 50570 1f9ec3e7519be846c799f84054b0516e ""
+  "image/chap4/UI/login success.png" 1684396727 49047 0b6dbc16f2bc390d0fa0e9e43be6b624 ""
+  "image/chap4/UI/login.png" 1684396505 46959 096b017593d4f714b79a1f741fc7fef2 ""
+  "image/chap4/UI/random.png" 1684396469 66114 5971c68e107d2425f934d700843b930f ""
+  "image/chap4/UI/register failed.png" 1684396666 56783 c624b5bc54ddbf2effc8b16bf3d30e5e ""
+  "image/chap4/UI/register success.png" 1684396630 56496 79e0a625bda81f25ae1e2b0c27fab48e ""
+  "image/chap4/UI/register.png" 1684396609 51797 1f8c98961a1a305b560b57abc92e1b2b ""
+  "image/chap4/UI/stat.png" 1684396770 73581 78b594284e6b001999b81e86d6e22776 ""
+  "image/chap4/UI/user button.png" 1684396758 101118 82b11e018404c288f67500047ea63275 ""
   "logo02.jpg" 1174520908 67198 9f8e6560a5a1aeb8340acc845c77cf9d ""
-  "report-no-78.aux" 1683645057 43405 b4d1310bcba1aa34deac80613f94e077 "xelatex"
-  "report-no-78.bbl" 1683645055 3509 51fa31a3efc5031bc5326c9761871459 "bibtex report-no-78"
-  "report-no-78.lof" 1683645057 10263 0fb0b2bf2e733705107b5883191bdefd "xelatex"
-  "report-no-78.lot" 1683645057 4710 e6a7ddb3f9b308457a9b32812fb6c1fc "xelatex"
-  "report-no-78.out" 1683645057 14468 5031a1a5c466dc3a0d27bf5d2fac6c2e "xelatex"
-  "report-no-78.tex" 1683645050 125046 38ff8e3f72d19e7705b5ac6823571114 ""
-  "report-no-78.toc" 1683645057 8872 597a14b60963599a93feda795c180a69 "xelatex"
+  "report-no-78.aux" 1684401469 50933 522f1955e8a581591ddcca1e68648b94 "xelatex"
+  "report-no-78.bbl" 1684401389 3509 51fa31a3efc5031bc5326c9761871459 "bibtex report-no-78"
+  "report-no-78.lof" 1684401469 13240 fbfebdbcf8a7db2ca19b25b993d272eb "xelatex"
+  "report-no-78.lot" 1684401469 5159 9991ba9b3e9b868ad2568f69be463b4b "xelatex"
+  "report-no-78.out" 1684401469 14888 b5fc94bbf04c5bd9c9db10c1ce586915 "xelatex"
+  "report-no-78.tex" 1684401465 138103 1052fbaad4a66b2c5723d59445ea9ddc ""
+  "report-no-78.toc" 1684401469 9182 48ca5ad7430bd4087ff45bd9f54de90c "xelatex"
   (generated)
   "report-no-78.aux"
   "report-no-78.lof"

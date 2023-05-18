@@ -27,7 +27,7 @@
 \contentsline {subsection}{\numberline {2.3.1}DuoCards}{6}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Memrise}{7}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Duolingo}{8}{subsection.2.3.3}%
-\contentsline {chapter}{\normalsize \bf \MakeUppercase []{บทที่ {\numberline {3}\hskip -0.8em วิธีการทำงาน กระบวนการและการออกแบบ}}}{9}{chapter.3}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{บทที่ {\numberline {3}\hskip -0.8em การออกแบบและวิธีดำเนินงาน}}}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}รายละเอียดของโครงงาน}{9}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}ความต้องการระบบ}{9}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Use Case Diagram}{10}{subsection.3.1.2}%
@@ -72,4 +72,7 @@
 \contentsline {subsubsection}{\numberline {3.5.2.2}Word Root}{40}{subsubsection.3.5.2.2}%
 \contentsline {subsubsection}{\numberline {3.5.2.3}User}{41}{subsubsection.3.5.2.3}%
 \contentsline {subsubsection}{\numberline {3.5.2.4}Word Learned}{41}{subsubsection.3.5.2.4}%
-\contentsline {chapter}{\mdseries \bf \MakeUppercase []{หนังสืออ้างอิง}}{42}{table.caption.61}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{บทที่ {\numberline {4}\hskip -0.8em ผลการวิจัยและอภิปรายผล}}}{42}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Database}{42}{section.4.1}%
+\contentsline {section}{\numberline {4.2}User Interface}{45}{section.4.2}%
+\contentsline {chapter}{\mdseries \bf \MakeUppercase []{หนังสืออ้างอิง}}{51}{figure.caption.77}%
