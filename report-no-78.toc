@@ -20,9 +20,9 @@
 \contentsline {subsection}{\numberline {2.1.5}Games-Based Learning}{3}{subsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.1.6}Computer-Aided Instruction}{3}{subsection.2.1.6}%
 \contentsline {section}{\numberline {2.2}ภาษาคอมพิวเตอร์และเทคโนโลยี}{4}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}React}{4}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Django}{4}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Figma}{4}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.1}Figma}{4}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}React}{4}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Django}{4}{subsection.2.2.3}%
 \contentsline {section}{\numberline {2.3}งานวิจัยที่เกี่ยวข้อง}{5}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}DuoCards}{6}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Memrise}{7}{subsection.2.3.2}%
@@ -72,7 +72,7 @@
 \contentsline {subsubsection}{\numberline {3.5.2.2}Word Root}{40}{subsubsection.3.5.2.2}%
 \contentsline {subsubsection}{\numberline {3.5.2.3}User}{41}{subsubsection.3.5.2.3}%
 \contentsline {subsubsection}{\numberline {3.5.2.4}Word Learned}{41}{subsubsection.3.5.2.4}%
-\contentsline {chapter}{\normalsize \bf \MakeUppercase []{บทที่ {\numberline {4}\hskip -0.8em ผลการวิจัยและอภิปรายผล}}}{42}{chapter.4}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase []{บทที่ {\numberline {4}\hskip -0.8em ผลการดำเนินงานและอภิปรายผล}}}{42}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Database}{42}{section.4.1}%
 \contentsline {section}{\numberline {4.2}User Interface}{45}{section.4.2}%
 \contentsline {chapter}{\mdseries \bf \MakeUppercase []{หนังสืออ้างอิง}}{51}{figure.caption.77}%

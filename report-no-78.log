@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  18 MAY 2023 16:17
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  20 MAY 2023 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -841,12 +841,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--284
 [3
 
 ] [4]
-Underfull \hbox (badness 1783) in paragraph at lines 326--329
+Underfull \hbox (badness 1783) in paragraph at lines 337--340
 []  \TU/THSarabunNew(0)/m/n/10 หัวข้อนี้จะพูดถึงงานวิจัยที่เกี่ยวข้อกับโครงงาน โดยจะเป็นแอปพลิเคชันที่เกี่ยวข้องกับการเรียนภาษาอังกฤษ ประกอบไปด้วย
  []
 
 
-Overfull \hbox (22.11473pt too wide) in paragraph at lines 332--341
+Overfull \hbox (22.11473pt too wide) in paragraph at lines 343--352
  [][] 
  []
 
@@ -860,7 +860,7 @@ File: image/chap2/memriseEX.png Graphic file (type bmp)
 File: image/chap2/duolingoEX.png Graphic file (type bmp)
 <image/chap2/duolingoEX.png>
 
-Overfull \hbox (0.71794pt too wide) in paragraph at lines 419--420
+Overfull \hbox (0.71794pt too wide) in paragraph at lines 430--431
 []\TU/THSarabunNew(0)/m/n/10 แอปอาจไม่เหมาะสำหรับผู้ใช้ที่ต้องการเน้นการเรียนรู้คำศัพท์เท่านั้น เนื่องจากแอปถูกออกแบบให้เป็นแพลตฟอร์มการเรียน
  []
 
@@ -869,11 +869,11 @@ Overfull \hbox (0.71794pt too wide) in paragraph at lines 419--420
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 429.
+(hyperref)                removed on input line 440.
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 444--445
-[]\TU/THSarabunNew(0)/m/n/10 สามารถเล่นเกมเรียงตัวอักษรให้ถูกต้องได้ โดยระบบจะทำการสลับตำแหน่งตัวอักษร และให้คำใบ้มา ผู้ใช้จะต้องทำการพิมพ์คำ
+Underfull \hbox (badness 1735) in paragraph at lines 453--454
+[]\TU/THSarabunNew(0)/m/n/10 สามารถใช้งานบัตรคำ ซึ่งเป็นบัตรที่ประกอบไปด้วยคำศัพท์ภาษาอังกฤษ และความหมายภาษาไทยได้ โดยผู้ใช้สามารถเลือกคำ
  []
 
 [9
@@ -885,14 +885,14 @@ File: image/chap3/UseCaseDiagram.jpg Graphic file (type bmp)
 File: image/chap3/System Architecture.jpg Graphic file (type bmp)
 <image/chap3/System Architecture.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 650--651
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 661--662
  [][] 
  []
 
 [16]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 662.
+(hyperref)                than one, level fixed on input line 673.
 
 File: image/chap3/sequence/Register.jpg Graphic file (type bmp)
 <image/chap3/sequence/Register.jpg>
@@ -923,7 +923,7 @@ File: image/chap3/sequence/Quiz.jpg Graphic file (type bmp)
 File: image/chap3/sequence/Game.jpg Graphic file (type bmp)
 <image/chap3/sequence/Game.jpg>
 
-Underfull \hbox (badness 1715) in paragraph at lines 765--773
+Underfull \hbox (badness 1715) in paragraph at lines 776--784
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้กดปุ่มเริ่มเล่นเกมระบบจะทำการสุ่มคำศัพท์จากฐานข้อมูลผ่าน Application เพื่อทำการแสดงผลคำศัพท์ที่ใช้เล่นเกม
  []
 
@@ -1000,57 +1000,57 @@ File: image/chap3/ui/dict/Dictionary - View Word.png Graphic file (type bmp)
 File: image/chap3/ER diagrams.jpg Graphic file (type bmp)
 <image/chap3/ER diagrams.jpg>
  [39]
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1037--1037
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1048--1048
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1043--1043
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1054--1054
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1044--1044
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1055--1055
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1034--1046
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1045--1057
  [][] 
  []
 
 
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1056--1056
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1067--1067
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1058--1058
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1069--1069
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1053--1060
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1064--1071
  [][] 
  []
 
 [40]
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1071--1071
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1082--1082
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1068--1079
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1079--1090
  [][] 
  []
 
 
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1089--1089
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1100--1100
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1086--1093
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1097--1104
  [][] 
  []
 
@@ -1059,7 +1059,7 @@ Overfull \hbox (16.58199pt too wide) in paragraph at lines 1086--1093
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 1099.
+(hyperref)                removed on input line 1110.
 
 File: image/chap4/DB/db.png Graphic file (type bmp)
 <image/chap4/DB/db.png>
@@ -1089,7 +1089,7 @@ File: image/chap4/UI/register.png Graphic file (type bmp)
 File: image/chap4/UI/register success.png Graphic file (type bmp)
 <image/chap4/UI/register success.png>
 
-Overfull \hbox (0.12866pt too wide) in paragraph at lines 1199--1202
+Overfull \hbox (0.12866pt too wide) in paragraph at lines 1210--1213
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อเข้าสู่หน้าลงทะเบียน และกรอกข้อมูลผู้ใช้ จากนั้นกดปุ่มลงทะเบียน หากข้อมูลที่กรอกถูกต้อง ระบบจะแสดงผลว่าลงทะเบียน
  []
 
@@ -1204,7 +1204,7 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count316
 )
 Package rerunfilecheck Info: File `report-no-78.out' has not changed.
-(rerunfilecheck)             Checksum: B5FC94BBF04C5BD9C9DB10C1CE586915;14888.
+(rerunfilecheck)             Checksum: 4FF442DD53D300FF263493CC40F62EB9;14920.
  ) 
 Here is how much of TeX's memory you used:
  21319 strings out of 411448
@@ -1215,4 +1215,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  101i,17n,117p,617b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report-no-78.xdv (58 pages, 636664 bytes).
+Output written on report-no-78.xdv (58 pages, 636828 bytes).
