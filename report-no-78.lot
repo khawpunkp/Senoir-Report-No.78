@@ -15,25 +15,23 @@
 \setforeignlanguage {thai}
 \contentsline {table}{\numberline {3.3}{\ignorespaces คำอธิบาย Use Case สำหรับการดูสถิติการใช้งานเว็บแอปพลิเคชัน\relax }}{12}{table.caption.9}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.4}{\ignorespaces คำอธิบาย Use Case สำหรับการสุ่มคำศัพท์ใหม่เพื่อการเรียนรู้\relax }}{12}{table.caption.10}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces คำอธิบาย Use Case สำหรับการดูคำศัพท์ที่เคยเรียน\relax }}{12}{table.caption.10}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.5}{\ignorespaces คำอธิบาย Use Case สำหรับการค้นหาคำศัพท์จากฐานข้อมูล\relax }}{12}{table.caption.11}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces คำอธิบาย Use Case สำหรับการดูกระดานผู้นำ\relax }}{12}{table.caption.11}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.6}{\ignorespaces คำอธิบาย Use Case สำหรับการแสดงผลรายละเอียดคำศัพท์\relax }}{13}{table.caption.12}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces คำอธิบาย Use Case สำหรับการสุ่มคำศัพท์ใหม่เพื่อการเรียนรู้\relax }}{13}{table.caption.12}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.7}{\ignorespaces คำอธิบาย Use Case สำหรับการเลือกคำศัพท์เพื่อใช้งานบัตรคำ\relax }}{13}{table.caption.13}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces คำอธิบาย Use Case สำหรับการค้นหาคำศัพท์จากฐานข้อมูล\relax }}{13}{table.caption.13}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.8}{\ignorespaces คำอธิบาย Use Case สำหรับการสุ่มคำศัพท์เพื่อใช้งานบัตรคำ\relax }}{13}{table.caption.14}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces คำอธิบาย Use Case สำหรับการแสดงผลรายละเอียดคำศัพท์\relax }}{13}{table.caption.14}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.9}{\ignorespaces คำอธิบาย Use Case สำหรับการดูบัตรคำ\relax }}{14}{table.caption.15}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces คำอธิบาย Use Case สำหรับการสุ่มคำศัพท์เพื่อใช้งานบัตรคำ\relax }}{14}{table.caption.15}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.10}{\ignorespaces คำอธิบาย Use Case สำหรับการทำแบบทดสอบ\relax }}{14}{table.caption.16}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces คำอธิบาย Use Case สำหรับการดูบัตรคำ\relax }}{14}{table.caption.16}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.11}{\ignorespaces คำอธิบาย Use Case สำหรับการเล่นเกมเรียงพยัญชนะเป็นคำศัพท์\relax }}{15}{table.caption.17}%
+\contentsline {table}{\numberline {3.11}{\ignorespaces คำอธิบาย Use Case สำหรับการทำแบบทดสอบ\relax }}{15}{table.caption.17}%
 \setforeignlanguage {thai}
-\setforeignlanguage {thai}
-\setforeignlanguage {thai}
-\setforeignlanguage {thai}
+\contentsline {table}{\numberline {3.12}{\ignorespaces คำอธิบาย Use Case สำหรับการเล่นเกมเรียงพยัญชนะเป็นคำศัพท์\relax }}{15}{table.caption.18}%
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
@@ -71,13 +69,23 @@
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.12}{\ignorespaces ตาราง Word\relax }}{40}{table.caption.58}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.13}{\ignorespaces ตาราง Word Root\relax }}{40}{table.caption.59}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.14}{\ignorespaces ตาราง User\relax }}{41}{table.caption.60}%
 \setforeignlanguage {thai}
-\contentsline {table}{\numberline {3.15}{\ignorespaces ตาราง Word Learned\relax }}{41}{table.caption.61}%
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\contentsline {table}{\numberline {3.13}{\ignorespaces ตาราง Word\relax }}{46}{table.caption.65}%
+\setforeignlanguage {thai}
+\contentsline {table}{\numberline {3.14}{\ignorespaces ตาราง Word Root\relax }}{46}{table.caption.66}%
+\setforeignlanguage {thai}
+\contentsline {table}{\numberline {3.15}{\ignorespaces ตาราง User\relax }}{47}{table.caption.67}%
+\setforeignlanguage {thai}
+\contentsline {table}{\numberline {3.16}{\ignorespaces ตาราง Word Learned\relax }}{47}{table.caption.68}%
 \addvspace {0em}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
@@ -88,6 +96,50 @@
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\setforeignlanguage {thai}
+\contentsline {table}{\numberline {4.1}{\ignorespaces ตารางการทดสอบระบบ\relax }}{75}{table.caption.119}%
+\addvspace {0em}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}
 \setforeignlanguage {thai}

@@ -963,6 +963,12 @@ INPUT image\chap3\sequence\Login.jpg
 INPUT .\image\chap3\sequence\Statistic.jpg
 INPUT .\image\chap3\sequence\Statistic.jpg
 INPUT image\chap3\sequence\Statistic.jpg
+INPUT .\image\chap3\sequence\Words Learned.jpg
+INPUT .\image\chap3\sequence\Words Learned.jpg
+INPUT image\chap3\sequence\Words Learned.jpg
+INPUT .\image\chap3\sequence\Leaderboard.jpg
+INPUT .\image\chap3\sequence\Leaderboard.jpg
+INPUT image\chap3\sequence\Leaderboard.jpg
 INPUT .\image\chap3\sequence\Random word.jpg
 INPUT .\image\chap3\sequence\Random word.jpg
 INPUT image\chap3\sequence\Random word.jpg
@@ -972,9 +978,6 @@ INPUT image\chap3\sequence\Search.jpg
 INPUT .\image\chap3\sequence\View-Search.jpg
 INPUT .\image\chap3\sequence\View-Search.jpg
 INPUT image\chap3\sequence\View-Search.jpg
-INPUT .\image\chap3\sequence\Flash-Select.jpg
-INPUT .\image\chap3\sequence\Flash-Select.jpg
-INPUT image\chap3\sequence\Flash-Select.jpg
 INPUT .\image\chap3\sequence\Flash-Random.jpg
 INPUT .\image\chap3\sequence\Flash-Random.jpg
 INPUT image\chap3\sequence\Flash-Random.jpg
@@ -990,6 +993,9 @@ INPUT image\chap3\sequence\Game.jpg
 INPUT .\image\chap3\ui\Home page.png
 INPUT .\image\chap3\ui\Home page.png
 INPUT image\chap3\ui\Home page.png
+INPUT .\image\chap3\ui\Home page - Help.png
+INPUT .\image\chap3\ui\Home page - Help.png
+INPUT image\chap3\ui\Home page - Help.png
 INPUT .\image\chap3\ui\login\Home page - Guest User Button.png
 INPUT .\image\chap3\ui\login\Home page - Guest User Button.png
 INPUT image\chap3\ui\login\Home page - Guest User Button.png
@@ -1008,18 +1014,24 @@ INPUT image\chap3\ui\statistic\Home page - Logged In User Button.png
 INPUT .\image\chap3\ui\statistic\Statistic.png
 INPUT .\image\chap3\ui\statistic\Statistic.png
 INPUT image\chap3\ui\statistic\Statistic.png
+INPUT .\image\chap3\ui\statistic\User’s Word Learned.png
+INPUT .\image\chap3\ui\statistic\User’s Word Learned.png
+INPUT image\chap3\ui\statistic\User’s Word Learned.png
+INPUT .\image\chap3\ui\statistic\Word Learned detail.png
+INPUT .\image\chap3\ui\statistic\Word Learned detail.png
+INPUT image\chap3\ui\statistic\Word Learned detail.png
+INPUT .\image\chap3\ui\statistic\Leaderboard.png
+INPUT .\image\chap3\ui\statistic\Leaderboard.png
+INPUT image\chap3\ui\statistic\Leaderboard.png
 INPUT .\image\chap3\ui\Random Word.png
 INPUT .\image\chap3\ui\Random Word.png
 INPUT image\chap3\ui\Random Word.png
 INPUT .\image\chap3\ui\flashcard\Flashcard.png
 INPUT .\image\chap3\ui\flashcard\Flashcard.png
 INPUT image\chap3\ui\flashcard\Flashcard.png
-INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word.png
-INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word.png
-INPUT image\chap3\ui\flashcard\Flashcard - Select Word.png
-INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word-1.png
-INPUT .\image\chap3\ui\flashcard\Flashcard - Select Word-1.png
-INPUT image\chap3\ui\flashcard\Flashcard - Select Word-1.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Help.png
+INPUT .\image\chap3\ui\flashcard\Flashcard - Help.png
+INPUT image\chap3\ui\flashcard\Flashcard - Help.png
 INPUT .\image\chap3\ui\flashcard\Flashcard - Show Card.png
 INPUT .\image\chap3\ui\flashcard\Flashcard - Show Card.png
 INPUT image\chap3\ui\flashcard\Flashcard - Show Card.png
@@ -1032,6 +1044,9 @@ INPUT image\chap3\ui\flashcard\Flashcard - Complete.png
 INPUT .\image\chap3\ui\game\Word Scramble.png
 INPUT .\image\chap3\ui\game\Word Scramble.png
 INPUT image\chap3\ui\game\Word Scramble.png
+INPUT .\image\chap3\ui\game\Word Scramble - Help.png
+INPUT .\image\chap3\ui\game\Word Scramble - Help.png
+INPUT image\chap3\ui\game\Word Scramble - Help.png
 INPUT .\image\chap3\ui\game\Word Scramble - Start.png
 INPUT .\image\chap3\ui\game\Word Scramble - Start.png
 INPUT image\chap3\ui\game\Word Scramble - Start.png
@@ -1047,6 +1062,9 @@ INPUT image\chap3\ui\game\Word Scramble - Pop Up.png
 INPUT .\image\chap3\ui\quiz\Quiz.png
 INPUT .\image\chap3\ui\quiz\Quiz.png
 INPUT image\chap3\ui\quiz\Quiz.png
+INPUT .\image\chap3\ui\quiz\Quiz - Help.png
+INPUT .\image\chap3\ui\quiz\Quiz - Help.png
+INPUT image\chap3\ui\quiz\Quiz - Help.png
 INPUT .\image\chap3\ui\quiz\Quiz - Start.png
 INPUT .\image\chap3\ui\quiz\Quiz - Start.png
 INPUT image\chap3\ui\quiz\Quiz - Start.png
@@ -1086,43 +1104,166 @@ INPUT image\chap4\DB\word root.png
 INPUT .\image\chap4\DB\word.png
 INPUT .\image\chap4\DB\word.png
 INPUT image\chap4\DB\word.png
-INPUT .\image\chap4\UI\home.png
-INPUT .\image\chap4\UI\home.png
-INPUT image\chap4\UI\home.png
-INPUT .\image\chap4\UI\user button.png
-INPUT .\image\chap4\UI\user button.png
-INPUT image\chap4\UI\user button.png
-INPUT .\image\chap4\UI\login.png
-INPUT .\image\chap4\UI\login.png
-INPUT image\chap4\UI\login.png
-INPUT .\image\chap4\UI\register.png
-INPUT .\image\chap4\UI\register.png
-INPUT image\chap4\UI\register.png
-INPUT .\image\chap4\UI\register success.png
-INPUT .\image\chap4\UI\register success.png
-INPUT image\chap4\UI\register success.png
-INPUT .\image\chap4\UI\register failed.png
-INPUT .\image\chap4\UI\register failed.png
-INPUT image\chap4\UI\register failed.png
-INPUT .\image\chap4\UI\login success.png
-INPUT .\image\chap4\UI\login success.png
-INPUT image\chap4\UI\login success.png
-INPUT .\image\chap4\UI\login failed.png
-INPUT .\image\chap4\UI\login failed.png
-INPUT image\chap4\UI\login failed.png
-INPUT .\image\chap4\UI\user button.png
-INPUT .\image\chap4\UI\user button.png
-INPUT image\chap4\UI\user button.png
-INPUT .\image\chap4\UI\stat.png
-INPUT .\image\chap4\UI\stat.png
-INPUT image\chap4\UI\stat.png
+INPUT .\image\chap4\UI\home\home.png
+INPUT .\image\chap4\UI\home\home.png
+INPUT image\chap4\UI\home\home.png
+INPUT .\image\chap4\UI\home\home help.png
+INPUT .\image\chap4\UI\home\home help.png
+INPUT image\chap4\UI\home\home help.png
+INPUT .\image\chap4\UI\home\guest button.png
+INPUT .\image\chap4\UI\home\guest button.png
+INPUT image\chap4\UI\home\guest button.png
+INPUT .\image\chap4\UI\login\login.png
+INPUT .\image\chap4\UI\login\login.png
+INPUT image\chap4\UI\login\login.png
+INPUT .\image\chap4\UI\login\register.png
+INPUT .\image\chap4\UI\login\register.png
+INPUT image\chap4\UI\login\register.png
+INPUT .\image\chap4\UI\login\register success.png
+INPUT .\image\chap4\UI\login\register success.png
+INPUT image\chap4\UI\login\register success.png
+INPUT .\image\chap4\UI\login\register failed.png
+INPUT .\image\chap4\UI\login\register failed.png
+INPUT image\chap4\UI\login\register failed.png
+INPUT .\image\chap4\UI\login\login success.png
+INPUT .\image\chap4\UI\login\login success.png
+INPUT image\chap4\UI\login\login success.png
+INPUT .\image\chap4\UI\login\login failed.png
+INPUT .\image\chap4\UI\login\login failed.png
+INPUT image\chap4\UI\login\login failed.png
+INPUT .\image\chap4\UI\stat\user button.png
+INPUT .\image\chap4\UI\stat\user button.png
+INPUT image\chap4\UI\stat\user button.png
+INPUT .\image\chap4\UI\stat\stat.png
+INPUT .\image\chap4\UI\stat\stat.png
+INPUT image\chap4\UI\stat\stat.png
+INPUT .\image\chap4\UI\stat\word learned.png
+INPUT .\image\chap4\UI\stat\word learned.png
+INPUT image\chap4\UI\stat\word learned.png
+INPUT .\image\chap4\UI\stat\word detail.png
+INPUT .\image\chap4\UI\stat\word detail.png
+INPUT image\chap4\UI\stat\word detail.png
+INPUT .\image\chap4\UI\stat\leaderboard.png
+INPUT .\image\chap4\UI\stat\leaderboard.png
+INPUT image\chap4\UI\stat\leaderboard.png
 INPUT .\image\chap4\UI\random.png
 INPUT .\image\chap4\UI\random.png
 INPUT image\chap4\UI\random.png
+INPUT .\image\chap4\UI\flashcard\flashcard.png
+INPUT .\image\chap4\UI\flashcard\flashcard.png
+INPUT image\chap4\UI\flashcard\flashcard.png
+INPUT .\image\chap4\UI\flashcard\flashcard help.png
+INPUT .\image\chap4\UI\flashcard\flashcard help.png
+INPUT image\chap4\UI\flashcard\flashcard help.png
+INPUT .\image\chap4\UI\flashcard\front.png
+INPUT .\image\chap4\UI\flashcard\front.png
+INPUT image\chap4\UI\flashcard\front.png
+INPUT .\image\chap4\UI\flashcard\back.png
+INPUT .\image\chap4\UI\flashcard\back.png
+INPUT image\chap4\UI\flashcard\back.png
+INPUT .\image\chap4\UI\flashcard\result.png
+INPUT .\image\chap4\UI\flashcard\result.png
+INPUT image\chap4\UI\flashcard\result.png
+INPUT .\image\chap4\UI\game\game.png
+INPUT .\image\chap4\UI\game\game.png
+INPUT image\chap4\UI\game\game.png
+INPUT .\image\chap4\UI\game\help.png
+INPUT .\image\chap4\UI\game\help.png
+INPUT image\chap4\UI\game\help.png
+INPUT .\image\chap4\UI\game\start.png
+INPUT .\image\chap4\UI\game\start.png
+INPUT image\chap4\UI\game\start.png
+INPUT .\image\chap4\UI\game\type.png
+INPUT .\image\chap4\UI\game\type.png
+INPUT image\chap4\UI\game\type.png
+INPUT .\image\chap4\UI\game\wrong.png
+INPUT .\image\chap4\UI\game\wrong.png
+INPUT image\chap4\UI\game\wrong.png
+INPUT .\image\chap4\UI\game\correct.png
+INPUT .\image\chap4\UI\game\correct.png
+INPUT image\chap4\UI\game\correct.png
+INPUT .\image\chap4\UI\quiz\quiz.png
+INPUT .\image\chap4\UI\quiz\quiz.png
+INPUT image\chap4\UI\quiz\quiz.png
+INPUT .\image\chap4\UI\quiz\help.png
+INPUT .\image\chap4\UI\quiz\help.png
+INPUT image\chap4\UI\quiz\help.png
+INPUT .\image\chap4\UI\quiz\start.png
+INPUT .\image\chap4\UI\quiz\start.png
+INPUT image\chap4\UI\quiz\start.png
+INPUT .\image\chap4\UI\quiz\wrong.png
+INPUT .\image\chap4\UI\quiz\wrong.png
+INPUT image\chap4\UI\quiz\wrong.png
+INPUT .\image\chap4\UI\quiz\correct.png
+INPUT .\image\chap4\UI\quiz\correct.png
+INPUT image\chap4\UI\quiz\correct.png
+INPUT .\image\chap4\UI\quiz\result.png
+INPUT .\image\chap4\UI\quiz\result.png
+INPUT image\chap4\UI\quiz\result.png
+INPUT .\image\chap4\UI\dict\dict.png
+INPUT .\image\chap4\UI\dict\dict.png
+INPUT image\chap4\UI\dict\dict.png
+INPUT .\image\chap4\UI\dict\result.png
+INPUT .\image\chap4\UI\dict\result.png
+INPUT image\chap4\UI\dict\result.png
+INPUT .\image\appendix\2nd\feature.png
+INPUT .\image\appendix\2nd\feature.png
+INPUT image\appendix\2nd\feature.png
+INPUT .\image\appendix\2nd\addict.png
+INPUT .\image\appendix\2nd\addict.png
+INPUT image\appendix\2nd\addict.png
+INPUT .\image\chap4\Final\quest.png
+INPUT .\image\chap4\Final\quest.png
+INPUT image\chap4\Final\quest.png
+INPUT .\image\chap4\Final\quest done.png
+INPUT .\image\chap4\Final\quest done.png
+INPUT image\chap4\Final\quest done.png
+INPUT .\image\chap4\Final\flash.png
+INPUT .\image\chap4\Final\flash.png
+INPUT image\chap4\Final\flash.png
+INPUT .\image\chap4\Final\game.png
+INPUT .\image\chap4\Final\game.png
+INPUT image\chap4\Final\game.png
+INPUT .\image\chap4\Final\game easy.png
+INPUT .\image\chap4\Final\game easy.png
+INPUT image\chap4\Final\game easy.png
+INPUT .\image\chap4\Final\game hard.png
+INPUT .\image\chap4\Final\game hard.png
+INPUT image\chap4\Final\game hard.png
+INPUT .\image\chap4\Final\quiz.png
+INPUT .\image\chap4\Final\quiz.png
+INPUT image\chap4\Final\quiz.png
+INPUT .\image\chap4\Final\quiz easy.png
+INPUT .\image\chap4\Final\quiz easy.png
+INPUT image\chap4\Final\quiz easy.png
+INPUT .\image\chap4\Final\quiz hard.png
+INPUT .\image\chap4\Final\quiz hard.png
+INPUT image\chap4\Final\quiz hard.png
 INPUT .\report-no-78.bbl
 INPUT report-no-78.bbl
 INPUT .\report-no-78.bbl
 INPUT report-no-78.bbl
+INPUT .\image\appendix\1st\toeic interest.png
+INPUT .\image\appendix\1st\toeic interest.png
+INPUT image\appendix\1st\toeic interest.png
+INPUT .\image\appendix\1st\exp.png
+INPUT .\image\appendix\1st\exp.png
+INPUT image\appendix\1st\exp.png
+INPUT .\image\appendix\1st\app interest.png
+INPUT .\image\appendix\1st\app interest.png
+INPUT image\appendix\1st\app interest.png
+INPUT .\image\appendix\1st\feature 1.png
+INPUT .\image\appendix\1st\feature 1.png
+INPUT image\appendix\1st\feature 1.png
+INPUT .\image\appendix\1st\extra 1.png
+INPUT .\image\appendix\1st\extra 1.png
+INPUT image\appendix\1st\extra 1.png
+INPUT .\image\appendix\1st\feature 2.png
+INPUT .\image\appendix\1st\feature 2.png
+INPUT image\appendix\1st\feature 2.png
+INPUT .\image\appendix\1st\extra 2.png
+INPUT .\image\appendix\1st\extra 2.png
+INPUT image\appendix\1st\extra 2.png
 INPUT report-no-78.aux
 INPUT .\report-no-78.out
 INPUT .\report-no-78.out
