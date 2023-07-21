@@ -1206,12 +1206,15 @@ INPUT image\chap4\UI\dict\dict.png
 INPUT .\image\chap4\UI\dict\result.png
 INPUT .\image\chap4\UI\dict\result.png
 INPUT image\chap4\UI\dict\result.png
-INPUT .\image\appendix\2nd\feature.png
-INPUT .\image\appendix\2nd\feature.png
-INPUT image\appendix\2nd\feature.png
-INPUT .\image\appendix\2nd\addict.png
-INPUT .\image\appendix\2nd\addict.png
-INPUT image\appendix\2nd\addict.png
+INPUT .\image\chap4\Improve\feat.png
+INPUT .\image\chap4\Improve\feat.png
+INPUT image\chap4\Improve\feat.png
+INPUT .\image\chap4\Improve\addict.png
+INPUT .\image\chap4\Improve\addict.png
+INPUT image\chap4\Improve\addict.png
+INPUT .\image\chap4\DB\user 2.png
+INPUT .\image\chap4\DB\user 2.png
+INPUT image\chap4\DB\user 2.png
 INPUT .\image\chap4\Final\quest.png
 INPUT .\image\chap4\Final\quest.png
 INPUT image\chap4\Final\quest.png
@@ -1239,6 +1242,15 @@ INPUT image\chap4\Final\quiz easy.png
 INPUT .\image\chap4\Final\quiz hard.png
 INPUT .\image\chap4\Final\quiz hard.png
 INPUT image\chap4\Final\quiz hard.png
+INPUT .\image\appendix\2nd\interest.png
+INPUT .\image\appendix\2nd\interest.png
+INPUT image\appendix\2nd\interest.png
+INPUT .\image\appendix\2nd\feature.png
+INPUT .\image\appendix\2nd\feature.png
+INPUT image\appendix\2nd\feature.png
+INPUT .\image\appendix\2nd\addict.png
+INPUT .\image\appendix\2nd\addict.png
+INPUT image\appendix\2nd\addict.png
 INPUT .\report-no-78.bbl
 INPUT report-no-78.bbl
 INPUT .\report-no-78.bbl
@@ -1255,15 +1267,9 @@ INPUT image\appendix\1st\app interest.png
 INPUT .\image\appendix\1st\feature 1.png
 INPUT .\image\appendix\1st\feature 1.png
 INPUT image\appendix\1st\feature 1.png
-INPUT .\image\appendix\1st\extra 1.png
-INPUT .\image\appendix\1st\extra 1.png
-INPUT image\appendix\1st\extra 1.png
 INPUT .\image\appendix\1st\feature 2.png
 INPUT .\image\appendix\1st\feature 2.png
 INPUT image\appendix\1st\feature 2.png
-INPUT .\image\appendix\1st\extra 2.png
-INPUT .\image\appendix\1st\extra 2.png
-INPUT image\appendix\1st\extra 2.png
 INPUT report-no-78.aux
 INPUT .\report-no-78.out
 INPUT .\report-no-78.out

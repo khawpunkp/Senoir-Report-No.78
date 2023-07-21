@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  18 JUN 2023 18:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.5.3)  21 JUL 2023 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,105 +748,165 @@ Underfull \hbox (badness 10000) in alignment at lines 129--129
  []
 
 [2]
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 14.75995pt on input line 164.
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 14.75995pt on input line 164.
-
 
 Package hyperref Warning: bookmark level for unknown chapterx defaults to 0.
 
-(report-no-78.toc
 \thai@year=\count315
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 12.29996pt on input line 2.
- [3
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count316
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count317
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count318
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count319
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count320
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count321
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count322
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count323
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count324
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count325
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+\thai@year=\count326
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
 
-] [4])
+Underfull \hbox (badness 10000) in paragraph at lines 140--152
+\TU/THSarabunNew(0)/m/n/10 สำคัญเป็นอย่างมาก แต่ปัจจุบันผู้คนไม่ชอบการเรียนรู้คำศัพท์ที่เป็นการเรียนแบบท่องจำอย่างเดียว เพื่อแก้ไขปัญหาการเรียนรู้คำศัพท์
+ []
+
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 12.29996pt on input line 162.
+
+Underfull \hbox (badness 10000) in alignment at lines 159--163
+[][] 
+ []
+
+[3]
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 14.75995pt on input line 172.
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 14.75995pt on input line 172.
+ [4
+
+] (report-no-78.toc
+\thai@year=\count327
+ [5
+
+] [6])
 \tf@toc=\write4
 \openout4 = `report-no-78.toc'.
 
- [5] (report-no-78.lot)
+ [7] (report-no-78.lot)
 \tf@lot=\write5
 \openout5 = `report-no-78.lot'.
 
- [6
+ [8
 
-] (report-no-78.lof [7
+] (report-no-78.lof [9
 
-] [8])
+] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+ []  []\TU/THSarabunNew(0)/m/n/10 ผลการทำแบบสอบถามหัวข้อความพึงพอใจในคุณสมบัติที่ช่วยช่วยในการกระตุ้นให้สามารถใช้งานเว็บแอปพลิเคชั่นได้อย่าง 
+ []
+
+)
 \tf@lof=\write6
 \openout6 = `report-no-78.lof'.
 
- [9]
+ [11]
 บทที่ 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 172.
+(hyperref)                removed on input line 201.
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 17.71193pt on input line 172.
+(Font)              scaled to size 17.71193pt on input line 201.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 17.71193pt on input line 172.
+(Font)              scaled to size 17.71193pt on input line 201.
 
-Overfull \hbox (3.01923pt too wide) in paragraph at lines 176--183
+Overfull \hbox (3.01923pt too wide) in paragraph at lines 205--212
 []  \TU/THSarabunNew(0)/m/n/10 ภาษาอังกฤษเป็นภาษาที่มีความสำคัญอย่างมาก เนื่องจากภาษาอังกฤษถือเป็นภาษากลางที่ใช้ในการสื่อสารระหว่างหลายประเทศ
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 190--197
+Underfull \hbox (badness 3965) in paragraph at lines 219--226
 \TU/THSarabunNew(0)/m/n/10 ผ่านเกมหรือแบบฝึกหัดบนคอมพิวเตอร์ที่สนุกและมีความตื่นเต้น โดยการเรียนที่มีความบันเทิงเข้ามาเกี่ยวข้อง จะทำให้ผู้เรียนไม่รู้สึกว่า
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 190--197
+Underfull \hbox (badness 1210) in paragraph at lines 219--226
 \TU/THSarabunNew(0)/m/n/10 เป็นการเรียน หรืออาจคิดว่าเป็นการผ่อนคลายที่สามารถได้รับความรู้ด้วย ส่งผลให้การเรียบแบบนี้ช่วยดึงดูดความสนใจของผู้เรียน และ
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 198--203
+Underfull \hbox (badness 1715) in paragraph at lines 227--232
 \TU/THSarabunNew(0)/m/n/10 ที่เน้นท่องจำ และช่วยเพิ่มความสนุกสนานในการเรียนรู้และเข้าใจเนื้อหาได้ง่ายขึ้น เช่นการใช้บัตรคำที่มีรูปภาพประกอบเพื่อการจำศัพท์
  []
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 13.52995pt on input line 210.
+(Font)              scaled to size 13.52995pt on input line 239.
 [1
 
 ]
 File: image/chap1/gantt.png Graphic file (type bmp)
 <image/chap1/gantt.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 239--240
- [][] 
- []
-
-[2]
+ [2]
 บทที่ 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 264.
+(hyperref)                removed on input line 293.
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 270--275
+Underfull \hbox (badness 4108) in paragraph at lines 299--304
 []  \TU/THSarabunNew(0)/m/n/10 หัวข้อนี้จะพูดเกี่ยวกับทฤษฎีที่เกี่ยวข้องกับโครงงาน โดยหัวข้อที่เกี่ยวข้องคือวิธีการเรียนรู้คำศัพท์ คือการใช้บัตรคำในการจำ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--313
+Underfull \hbox (badness 10000) in paragraph at lines 345--350
 \TU/THSarabunNew(0)/m/n/10 โดยเกิดจากการที่นักวิจัยด้านการศึกษาได้นำเสนอแนวคิดที่จะนำความบันเทิงเข้ามาเป็นส่วนหนึ่งกับการเรียนรู้ และเมื่อการเรียนมีความ
  []
 
 [3
 
 ] [4]
-Underfull \hbox (badness 1783) in paragraph at lines 366--369
+Underfull \hbox (badness 1783) in paragraph at lines 402--405
 []  \TU/THSarabunNew(0)/m/n/10 หัวข้อนี้จะพูดถึงงานวิจัยที่เกี่ยวข้อกับโครงงาน โดยจะเป็นแอปพลิเคชันที่เกี่ยวข้องกับการเรียนภาษาอังกฤษ ประกอบไปด้วย
  []
 
 
-Overfull \hbox (22.11473pt too wide) in paragraph at lines 372--381
+Overfull \hbox (22.11473pt too wide) in paragraph at lines 408--417
  [][] 
  []
 
@@ -860,7 +920,7 @@ File: image/chap2/memriseEX.png Graphic file (type bmp)
 File: image/chap2/duolingoEX.png Graphic file (type bmp)
 <image/chap2/duolingoEX.png>
 
-Overfull \hbox (0.71794pt too wide) in paragraph at lines 459--460
+Overfull \hbox (0.71794pt too wide) in paragraph at lines 495--496
 []\TU/THSarabunNew(0)/m/n/10 แอปอาจไม่เหมาะสำหรับผู้ใช้ที่ต้องการเน้นการเรียนรู้คำศัพท์เท่านั้น เนื่องจากแอปถูกออกแบบให้เป็นแพลตฟอร์มการเรียน
  []
 
@@ -869,29 +929,20 @@ Overfull \hbox (0.71794pt too wide) in paragraph at lines 459--460
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 469.
+(hyperref)                removed on input line 505.
 
 [9
 
 ]
 File: image/chap3/UseCaseDiagram.jpg Graphic file (type bmp)
 <image/chap3/UseCaseDiagram.jpg>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10] [11] [12] [13] [14] [15]
+ [10] [11] [12] [13] [14] [15]
 File: image/chap3/System Architecture.jpg Graphic file (type bmp)
 <image/chap3/System Architecture.jpg>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 723--724
- [][] 
- []
-
-[16]
+ [16]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 735.
+(hyperref)                than one, level fixed on input line 755.
 
 File: image/chap3/sequence/Register.jpg Graphic file (type bmp)
 <image/chap3/sequence/Register.jpg>
@@ -925,7 +976,7 @@ File: image/chap3/sequence/Quiz.jpg Graphic file (type bmp)
 File: image/chap3/sequence/Game.jpg Graphic file (type bmp)
 <image/chap3/sequence/Game.jpg>
 
-Underfull \hbox (badness 1715) in paragraph at lines 861--869
+Underfull \hbox (badness 1715) in paragraph at lines 881--889
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อผู้ใช้กดปุ่มเริ่มเล่นเกมระบบจะทำการสุ่มคำศัพท์จากฐานข้อมูลผ่าน Application เพื่อทำการแสดงผลคำศัพท์ที่ใช้เล่นเกม
  []
 
@@ -954,7 +1005,7 @@ File: image/chap3/ui/statistic/Statistic.png Graphic file (type bmp)
 File: image/chap3/ui/statistic/User’s Word Learned.png Graphic file (type bmp)
 <image/chap3/ui/statistic/User’s Word Learned.png>
 
-Underfull \hbox (badness 1097) in paragraph at lines 950--953
+Underfull \hbox (badness 1097) in paragraph at lines 970--973
 []  \TU/THSarabunNew(0)/m/n/10 จากรูปภาพที่ [][]3.22[][] เมื่อผู้ใช้งานกดปุ่มดูคำศัพท์ที่เคยเรียน ระบบจะแสดงผลคำศัพท์ที่ผู้ใช้ได้เคยเรียนรู้มา ซึ่งแสดงให้เห็นดัง
  []
 
@@ -1022,52 +1073,52 @@ File: image/chap3/ui/dict/Dictionary - View Word.png Graphic file (type bmp)
 File: image/chap3/ER diagrams.jpg Graphic file (type bmp)
 <image/chap3/ER diagrams.jpg>
  [45]
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1195--1195
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1215--1215
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1201--1201
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1221--1221
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1192--1203
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1212--1223
  [][] 
  []
 
 
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1213--1213
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1233--1233
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (1.42522pt too wide) in paragraph at lines 1215--1215
+Overfull \hbox (1.42522pt too wide) in paragraph at lines 1235--1235
 []|\TU/THSarabunNew(0)/m/n/10 Yes| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1210--1217
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1230--1237
  [][] 
  []
 
 [46]
-Overfull \hbox (0.59993pt too wide) in paragraph at lines 1228--1228
-[]|\TU/THSarabunNew(0)/m/n/10 PK| 
- []
-
-
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1225--1238
- [][] 
- []
-
-
 Overfull \hbox (0.59993pt too wide) in paragraph at lines 1248--1248
 []|\TU/THSarabunNew(0)/m/n/10 PK| 
  []
 
 
-Overfull \hbox (16.58199pt too wide) in paragraph at lines 1245--1252
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1245--1258
+ [][] 
+ []
+
+
+Overfull \hbox (0.59993pt too wide) in paragraph at lines 1268--1268
+[]|\TU/THSarabunNew(0)/m/n/10 PK| 
+ []
+
+
+Overfull \hbox (16.58199pt too wide) in paragraph at lines 1265--1272
  [][] 
  []
 
@@ -1076,7 +1127,7 @@ Overfull \hbox (16.58199pt too wide) in paragraph at lines 1245--1252
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 1258.
+(hyperref)                removed on input line 1278.
 
 File: image/chap4/DB/db.png Graphic file (type bmp)
 <image/chap4/DB/db.png>
@@ -1085,188 +1136,233 @@ File: image/chap4/DB/db.png Graphic file (type bmp)
 ]
 File: image/chap4/DB/user.png Graphic file (type bmp)
 <image/chap4/DB/user.png>
+ [49]
 File: image/chap4/DB/word learned.png Graphic file (type bmp)
 <image/chap4/DB/word learned.png>
- [49]
 File: image/chap4/DB/word root.png Graphic file (type bmp)
 <image/chap4/DB/word root.png>
+ [50]
 File: image/chap4/DB/word.png Graphic file (type bmp)
 <image/chap4/DB/word.png>
- [50]
+ [51]
 File: image/chap4/UI/home/home.png Graphic file (type bmp)
 <image/chap4/UI/home/home.png>
 File: image/chap4/UI/home/home help.png Graphic file (type bmp)
 <image/chap4/UI/home/home help.png>
- [51]
+ [52]
 File: image/chap4/UI/home/guest button.png Graphic file (type bmp)
 <image/chap4/UI/home/guest button.png>
 File: image/chap4/UI/login/login.png Graphic file (type bmp)
 <image/chap4/UI/login/login.png>
- [52]
+ [53]
 File: image/chap4/UI/login/register.png Graphic file (type bmp)
 <image/chap4/UI/login/register.png>
 File: image/chap4/UI/login/register success.png Graphic file (type bmp)
 <image/chap4/UI/login/register success.png>
 
-Overfull \hbox (0.12866pt too wide) in paragraph at lines 1364--1367
+Overfull \hbox (0.12866pt too wide) in paragraph at lines 1387--1390
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อเข้าสู่หน้าลงทะเบียน และกรอกข้อมูลผู้ใช้ จากนั้นกดปุ่มลงทะเบียน หากข้อมูลที่กรอกถูกต้อง ระบบจะแสดงผลว่าลงทะเบียน
  []
 
-[53]
+[54]
 File: image/chap4/UI/login/register failed.png Graphic file (type bmp)
 <image/chap4/UI/login/register failed.png>
 File: image/chap4/UI/login/login success.png Graphic file (type bmp)
 <image/chap4/UI/login/login success.png>
- [54]
+ [55]
 File: image/chap4/UI/login/login failed.png Graphic file (type bmp)
 <image/chap4/UI/login/login failed.png>
 File: image/chap4/UI/stat/user button.png Graphic file (type bmp)
 <image/chap4/UI/stat/user button.png>
- [55]
+ [56]
 File: image/chap4/UI/stat/stat.png Graphic file (type bmp)
 <image/chap4/UI/stat/stat.png>
 File: image/chap4/UI/stat/word learned.png Graphic file (type bmp)
 <image/chap4/UI/stat/word learned.png>
- [56]
+ [57]
 File: image/chap4/UI/stat/word detail.png Graphic file (type bmp)
 <image/chap4/UI/stat/word detail.png>
 File: image/chap4/UI/stat/leaderboard.png Graphic file (type bmp)
 <image/chap4/UI/stat/leaderboard.png>
- [57]
+ [58]
 File: image/chap4/UI/random.png Graphic file (type bmp)
 <image/chap4/UI/random.png>
 File: image/chap4/UI/flashcard/flashcard.png Graphic file (type bmp)
 <image/chap4/UI/flashcard/flashcard.png>
- [58]
+ [59]
 File: image/chap4/UI/flashcard/flashcard help.png Graphic file (type bmp)
 <image/chap4/UI/flashcard/flashcard help.png>
 File: image/chap4/UI/flashcard/front.png Graphic file (type bmp)
 <image/chap4/UI/flashcard/front.png>
- [59]
+ [60]
 File: image/chap4/UI/flashcard/back.png Graphic file (type bmp)
 <image/chap4/UI/flashcard/back.png>
 File: image/chap4/UI/flashcard/result.png Graphic file (type bmp)
 <image/chap4/UI/flashcard/result.png>
- [60]
+ [61]
 File: image/chap4/UI/game/game.png Graphic file (type bmp)
 <image/chap4/UI/game/game.png>
 File: image/chap4/UI/game/help.png Graphic file (type bmp)
 <image/chap4/UI/game/help.png>
- [61]
+ [62]
 File: image/chap4/UI/game/start.png Graphic file (type bmp)
 <image/chap4/UI/game/start.png>
 File: image/chap4/UI/game/type.png Graphic file (type bmp)
 <image/chap4/UI/game/type.png>
- [62]
+ [63]
 File: image/chap4/UI/game/wrong.png Graphic file (type bmp)
 <image/chap4/UI/game/wrong.png>
 File: image/chap4/UI/game/correct.png Graphic file (type bmp)
 <image/chap4/UI/game/correct.png>
- [63]
+ [64]
 File: image/chap4/UI/quiz/quiz.png Graphic file (type bmp)
 <image/chap4/UI/quiz/quiz.png>
 File: image/chap4/UI/quiz/help.png Graphic file (type bmp)
 <image/chap4/UI/quiz/help.png>
- [64]
+ [65]
 File: image/chap4/UI/quiz/start.png Graphic file (type bmp)
 <image/chap4/UI/quiz/start.png>
 File: image/chap4/UI/quiz/wrong.png Graphic file (type bmp)
 <image/chap4/UI/quiz/wrong.png>
 
-Underfull \hbox (badness 1009) in paragraph at lines 1561--1564
+Underfull \hbox (badness 1009) in paragraph at lines 1584--1587
 []  \TU/THSarabunNew(0)/m/n/10 เมื่อเลือกคำตอบ หากเลือกคำตอบไม่ถูก กล่องคำตอบที่เลือกจะเปลี่ยนเป็นสีแดง และกล่องคำตอบที่ถูกจะเปลี่ยนเป็นสีเขียว
  []
 
-[65]
+[66]
 File: image/chap4/UI/quiz/correct.png Graphic file (type bmp)
 <image/chap4/UI/quiz/correct.png>
 File: image/chap4/UI/quiz/result.png Graphic file (type bmp)
 <image/chap4/UI/quiz/result.png>
- [66]
+ [67]
 File: image/chap4/UI/dict/dict.png Graphic file (type bmp)
 <image/chap4/UI/dict/dict.png>
 File: image/chap4/UI/dict/result.png Graphic file (type bmp)
 <image/chap4/UI/dict/result.png>
- [67]
-File: image/appendix/2nd/feature.png Graphic file (type bmp)
-<image/appendix/2nd/feature.png>
  [68]
-File: image/appendix/2nd/addict.png Graphic file (type bmp)
-<image/appendix/2nd/addict.png>
+File: image/chap4/Improve/feat.png Graphic file (type bmp)
+<image/chap4/Improve/feat.png>
  [69]
-Overfull \hbox (0.76823pt too wide) in paragraph at lines 1634--1637
-[]  \TU/THSarabunNew(0)/m/n/10 จากคำแนะนำของผู้เชี่ยวชาญ ทางผู้พัฒนาได้ทำการเพิ่มภารกิจประจำวัน และทำการเพิ่มระดับความยากของการทำแบบทดสอบ
+File: image/chap4/Improve/addict.png Graphic file (type bmp)
+<image/chap4/Improve/addict.png>
+
+Underfull \hbox (badness 5245) in paragraph at lines 1648--1653
+\TU/THSarabunNew(0)/m/n/10 สนใจในการใช้งานเว็บแอปพลิเคชันอย่างต่อเนื่อง ดังที่เห็นในภาพที่ [][]4.41[][] แต่มีความเห็นเพิ่มเติมว่าควรพัฒนาคุณสมบัติเพิ่มเติมให้กับ
  []
 
+[70]
+File: image/chap4/DB/user 2.png Graphic file (type bmp)
+<image/chap4/DB/user 2.png>
+ [71]
 File: image/chap4/Final/quest.png Graphic file (type bmp)
 <image/chap4/Final/quest.png>
-[70]
 File: image/chap4/Final/quest done.png Graphic file (type bmp)
 <image/chap4/Final/quest done.png>
+ [72]
 File: image/chap4/Final/flash.png Graphic file (type bmp)
 <image/chap4/Final/flash.png>
- [71]
 File: image/chap4/Final/game.png Graphic file (type bmp)
 <image/chap4/Final/game.png>
+ [73]
 File: image/chap4/Final/game easy.png Graphic file (type bmp)
 <image/chap4/Final/game easy.png>
- [72]
 File: image/chap4/Final/game hard.png Graphic file (type bmp)
 <image/chap4/Final/game hard.png>
+ [74]
 File: image/chap4/Final/quiz.png Graphic file (type bmp)
 <image/chap4/Final/quiz.png>
- [73]
 File: image/chap4/Final/quiz easy.png Graphic file (type bmp)
 <image/chap4/Final/quiz easy.png>
+ [75]
 File: image/chap4/Final/quiz hard.png Graphic file (type bmp)
 <image/chap4/Final/quiz hard.png>
+ [76] [77]
+File: image/appendix/2nd/interest.png Graphic file (type bmp)
+<image/appendix/2nd/interest.png>
+ [78]
+File: image/appendix/2nd/feature.png Graphic file (type bmp)
+<image/appendix/2nd/feature.png>
+ [79]
+File: image/appendix/2nd/addict.png Graphic file (type bmp)
+<image/appendix/2nd/addict.png>
 
-Underfull \hbox (badness 2478) in paragraph at lines 1712--1715
-[]  \TU/THSarabunNew(0)/m/n/10 ในการทำแบบทดสอบ หากเลือกระดับความยากเป็นยาก ระบบจะเลือกคำตอบหลอกจากคำศัพท์ที่มีความหมายใกล้เคียงกัน
+Underfull \hbox (badness 2809) in paragraph at lines 1853--1854
+[]\TU/THSarabunNew(0)/m/n/10 ควรเพิ่มสีสัน หรือลูกเล่นให้น่าสนใจมากขึ้น รวมถึงประโยชน์จากการเป็นผู้เล่นประจำ เช่นรางวัล หรืออาจสร้างชุมชนของคน
  []
 
-[74] [75]
+
+Underfull \hbox (badness 3746) in paragraph at lines 1857--1863
+[]  \TU/THSarabunNew(0)/m/n/10 ในส่วนของคุณสมบัติที่ช่วยในการกระตุ้นให้สามารถใช้งานเว็บแอปพลิเคชั่นได้อย่างต่อเนื่องนั้น มีเพียงระบบภารกิจประจำวัน
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 1857--1863
+\TU/THSarabunNew(0)/m/n/10 เท่านั้นที่ได้คะแนนเฉลี่ยมากกว่า 4 คะแนน และผู้ทำแบบสอบถามส่วนใหญ่มีความคิดเห็นไปในทางเดียวกันว่าระบบที่ผู้จัดทำได้ทำการ
+ []
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1871
+\TU/THSarabunNew(0)/m/n/10 แอปพลิเคชันสามารถบรรลุวัตถุประสงค์ที่ผู้จัดทำตั้งไว้ได้ แต่ในส่วนของคุณสมบัติที่ช่วยในการกระตุ้นให้สามารถใช้งานเว็บแอปพลิเคชั่น
+ []
+
+[81]
 บทที่ 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 1748.
+(hyperref)                removed on input line 1876.
 
-(report-no-78.bbl [76
 
-]) [77
+Underfull \hbox (badness 1210) in paragraph at lines 1911--1917
+[]  \TU/THSarabunNew(0)/m/n/10 เนื่องจากผู้จัดทำไม่เคยมีประสบการณ์ด้านการทำเว็บแอปพลิชันมากนัก ทำให้การพัฒนาเป็นไปไม่ค่อยราบรื่น มีการติดขัดอยู่
+ []
+
+[82
+
+]
+Underfull \hbox (badness 2158) in paragraph at lines 1946--1952
+[]  \TU/THSarabunNew(0)/m/n/10 ในปัจจุบัน คุณสมบัติที่กระตุ้นการใช้งานเว็บแอปพลิเคชั่นอย่างต่อเนื่องยังไม่สามารถทำหน้าที่ได้ดีเท่าที่ควร ดังนั้นผู้จัดทำคิด
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 1954--1958
+[]  \TU/THSarabunNew(0)/m/n/10 โดยจะทำการเพิ่มจำนวนคำศัพท์ที่ยังจำไม่ได้ในระบบบัตรคำ เพิ่มจำนวนข้อที่ตอบถูกไปแล้วในการทำแบบทดสอบ ทบทวน
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1954--1958
+\TU/THSarabunNew(0)/m/n/10 คำศัพท์ที่ตอบผิดในการทำแบบทดสอบ วัดความแม่นยำในการตอบของคำศัพท์แต่ละคำ และ เพิ่มคำอธิบายการใช้เว็บแอปพลิชันอย่าง
+ []
+
+(report-no-78.bbl [83]) [84
 
 ]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 21.25432pt on input line 1785.
+(Font)              scaled to size 21.25432pt on input line 1983.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 21.25432pt on input line 1785.
- [78]
+(Font)              scaled to size 21.25432pt on input line 1983.
+ [85]
 
 Package hyperref Warning: bookmark level for unknown apdx defaults to 0.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.29996pt
-(hyperref)                replaced by space on input line 1785.
+(hyperref)                replaced by space on input line 1983.
 
 File: image/appendix/1st/toeic interest.png Graphic file (type bmp)
 <image/appendix/1st/toeic interest.png>
 File: image/appendix/1st/exp.png Graphic file (type bmp)
 <image/appendix/1st/exp.png>
-[79]
+[86]
 File: image/appendix/1st/app interest.png Graphic file (type bmp)
 <image/appendix/1st/app interest.png>
- [80]
+ [87]
 File: image/appendix/1st/feature 1.png Graphic file (type bmp)
 <image/appendix/1st/feature 1.png>
-File: image/appendix/1st/extra 1.png Graphic file (type bmp)
-<image/appendix/1st/extra 1.png>
- [81]
+ [88]
 File: image/appendix/1st/feature 2.png Graphic file (type bmp)
 <image/appendix/1st/feature 2.png>
-File: image/appendix/1st/extra 2.png Graphic file (type bmp)
-<image/appendix/1st/extra 2.png>
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1356,19 +1452,19 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/target}  =>  {english}
 >  {newzealand/variant}  =>  {newzealand}
 >  {newzealand/options}  =>  {variant=newzealand}.
- [82] (report-no-78.aux
-\thai@year=\count316
+ [89] (report-no-78.aux
+\thai@year=\count328
 )
 Package rerunfilecheck Info: File `report-no-78.out' has not changed.
-(rerunfilecheck)             Checksum: 5D49EC71B7E5B51B02DBD87ADAD15970;19233.
+(rerunfilecheck)             Checksum: 486F0366188F4AF618B2363BEDA17241;24928.
  ) 
 Here is how much of TeX's memory you used:
- 21760 strings out of 411448
- 415693 string characters out of 5818071
- 1866698 words of memory out of 5000000
- 41634 multiletter control sequences out of 15000+600000
+ 21785 strings out of 411448
+ 416291 string characters out of 5818071
+ 1868698 words of memory out of 5000000
+ 41657 multiletter control sequences out of 15000+600000
  514960 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 101i,17n,117p,882b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,17n,117p,893b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report-no-78.xdv (91 pages, 881240 bytes).
+Output written on report-no-78.xdv (100 pages, 1038564 bytes).
